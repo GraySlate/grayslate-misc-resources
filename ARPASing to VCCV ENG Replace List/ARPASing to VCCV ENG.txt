@@ -1,0 +1,8984 @@
+- aa,-a
+aa,a
+aa -,a-
+- ao,-9
+ao,9
+ao -,9-
+- iy,-E
+iy,E
+iy -,E-
+- uw,-o
+uw,o
+uw -,o-
+- eh,-e
+eh,e
+eh -,e-
+- ih,-i
+ih,i
+ih -,i-
+- uh,-6
+uh,6
+uh -,6-
+- ah,-u
+ah,u
+ah -,u-
+- ae,-@
+ae,@
+ae -,@-
+- er,-3
+er,3
+er -,3-
+- ey,-A
+ey,A
+ey -,A-
+- ay,-I
+ay,I
+ay -,I-
+- ow,-O
+ow,O
+ow -,O-
+- aw,-8
+aw,8
+aw -,8-
+- oy,-Q
+oy,Q
+oy -,Q-
+- ax,-x
+ax,x
+ax -,x-
+b aa,ba
+aa b,a b
+b ao,b9
+ao b,9 b
+b iy,bE
+iy b,E b
+b uw,bo
+uw b,o b
+b eh,be
+eh b,e b
+b ih,bi
+ih b,i b
+b uh,b6
+uh b,6 b
+b ah,bu
+ah b,u b
+b ae,b@
+ae b,@ b
+b er,b3
+er b,3 b
+b ey,bA
+ey b,A b
+b ay,bI
+ay b,I b
+b ow,bO
+ow b,O b
+b aw,b8
+aw b,8 b
+b oy,bQ
+oy b,Q b
+b ax,bx
+ax b,x b
+ch aa,cha
+aa ch,a ch
+ch ao,ch9
+ao ch,9 ch
+ch iy,chE
+iy ch,E ch
+ch uw,cho
+uw ch,o ch
+ch eh,che
+eh ch,e ch
+ch ih,chi
+ih ch,i ch
+ch uh,ch6
+uh ch,6 ch
+ch ah,chu
+ah ch,u ch
+ch ae,ch@
+ae ch,@ ch
+ch er,ch3
+er ch,3 ch
+ch ey,chA
+ey ch,A ch
+ch ay,chI
+ay ch,I ch
+ch ow,chO
+ow ch,O ch
+ch aw,ch8
+aw ch,8 ch
+ch oy,chQ
+oy ch,Q ch
+ch ax,chx
+ax ch,x ch
+dh aa,dha
+aa dh,a dh
+dh ao,dh9
+ao dh,9 dh
+dh iy,dhE
+iy dh,E dh
+dh uw,dho
+uw dh,o dh
+dh eh,dhe
+eh dh,e dh
+dh ih,dhi
+ih dh,i dh
+dh uh,dh6
+uh dh,6 dh
+dh ah,dhu
+ah dh,u dh
+dh ae,dh@
+ae dh,@ dh
+dh er,dh3
+er dh,3 dh
+dh ey,dhA
+ey dh,A dh
+dh ay,dhI
+ay dh,I dh
+dh ow,dhO
+ow dh,O dh
+dh aw,dh8
+aw dh,8 dh
+dh oy,dhQ
+oy dh,Q dh
+dh ax,dhx
+ax dh,x dh
+d aa,da
+aa d,a d
+d ao,d9
+ao d,9 d
+d iy,dE
+iy d,E d
+d uw,do
+uw d,o d
+d eh,de
+eh d,e d
+d ih,di
+ih d,i d
+d uh,d6
+uh d,6 d
+d ah,du
+ah d,u d
+d ae,d@
+ae d,@ d
+d er,d3
+er d,3 d
+d ey,dA
+ey d,A d
+d ay,dI
+ay d,I d
+d ow,dO
+ow d,O d
+d aw,d8
+aw d,8 d
+d oy,dQ
+oy d,Q d
+d ax,dx
+ax d,x d
+f aa,fa
+aa f,a f
+f ao,f9
+ao f,9 f
+f iy,fE
+iy f,E f
+f uw,fo
+uw f,o f
+f eh,fe
+eh f,e f
+f ih,fi
+ih f,i f
+f uh,f6
+uh f,6 f
+f ah,fu
+ah f,u f
+f ae,f@
+ae f,@ f
+f er,f3
+er f,3 f
+f ey,fA
+ey f,A f
+f ay,fI
+ay f,I f
+f ow,fO
+ow f,O f
+f aw,f8
+aw f,8 f
+f oy,fQ
+oy f,Q f
+f ax,fx
+ax f,x f
+g aa,ga
+aa g,a g
+g ao,g9
+ao g,9 g
+g iy,gE
+iy g,E g
+g uw,go
+uw g,o g
+g eh,ge
+eh g,e g
+g ih,gi
+ih g,i g
+g uh,g6
+uh g,6 g
+g ah,gu
+ah g,u g
+g ae,g@
+ae g,@ g
+g er,g3
+er g,3 g
+g ey,gA
+ey g,A g
+g ay,gI
+ay g,I g
+g ow,gO
+ow g,O g
+g aw,g8
+aw g,8 g
+g oy,gQ
+oy g,Q g
+g ax,gx
+ax g,x g
+hh aa,ha
+aa hh,a h
+hh ao,h9
+ao hh,9 h
+hh iy,hhE
+iy hh,E h
+hh uw,ho
+uw hh,o h
+hh eh,he
+eh hh,e h
+hh ih,hi
+ih hh,i h
+hh uh,h6
+uh hh,6 h
+hh ah,hu
+ah hh,u h
+hh ae,h@
+ae hh,@ h
+hh er,h3
+er hh,3 h
+hh ey,hA
+ey hh,A h
+hh ay,hI
+ay hh,I h
+hh ow,hO
+ow hh,O h
+hh aw,h8
+aw hh,8 h
+hh oy,hQ
+oy hh,Q h
+hh ax,hx
+ax hh,x h
+jh aa,ja
+aa jh,a j
+jh ao,j9
+ao jh,9 j
+jh iy,jE
+iy jh,E j
+jh uw,jo
+uw jh,o j
+jh eh,je
+eh jh,e j
+jh ih,ji
+ih jh,i j
+jh uh,j6
+uh jh,6 j
+jh ah,ju
+ah jh,u j
+jh ae,j@
+ae jh,@ j
+jh er,j3
+er jh,3 j
+jh ey,jA
+ey jh,A j
+jh ay,jI
+ay jh,I j
+jh ow,jO
+ow jh,O j
+jh aw,j8
+aw jh,8 j
+jh oy,jQ
+oy jh,Q j
+jh ax,jx
+ax jh,x j
+k aa,ka
+aa k,a k
+k ao,k9
+ao k,9 k
+k iy,kE
+iy k,E k
+k uw,ko
+uw k,o k
+k eh,ke
+eh k,e k
+k ih,ki
+ih k,i k
+k uh,k6
+uh k,6 k
+k ah,ku
+ah k,u k
+k ae,k@
+ae k,@ k
+k er,k3
+er k,3 k
+k ey,kA
+ey k,A k
+k ay,kI
+ay k,I k
+k ow,kO
+ow k,O k
+k aw,k8
+aw k,8 k
+k oy,kQ
+oy k,Q k
+k ax,kx
+ax k,x k
+l aa,la
+aa l,a l
+l ao,l9
+ao l,9 l
+l iy,lE
+iy l,E l
+l uw,lo
+uw l,o l
+l eh,le
+eh l,e l
+l ih,li
+ih l,i l
+l uh,l6
+uh l,6 l
+l ah,lu
+ah l,u l
+l ae,l@
+ae l,@ l
+l er,l3
+er l,3 l
+l ey,lA
+ey l,A l
+l ay,lI
+ay l,I l
+l ow,lO
+ow l,O l
+l aw,l8
+aw l,8 l
+l oy,lQ
+oy l,Q l
+l ax,lx
+ax l,x l
+m aa,ma
+aa m,a m
+m ao,m9
+ao m,9 m
+m iy,mE
+iy m,E m
+m uw,mo
+uw m,o m
+m eh,me
+eh m,e m
+m ih,mi
+ih m,i m
+m uh,m6
+uh m,6 m
+m ah,mu
+ah m,u m
+m ae,m@
+ae m,@ m
+m er,m3
+er m,3 m
+m ey,mA
+ey m,A m
+m ay,mI
+ay m,I m
+m ow,mO
+ow m,O m
+m aw,m8
+aw m,8 m
+m oy,mQ
+oy m,Q m
+m ax,mx
+ax m,x m
+n aa,na
+aa n,a n
+n ao,n9
+ao n,9 n
+n iy,nE
+iy n,E n
+n uw,no
+uw n,o n
+n eh,ne
+eh n,e n
+n ih,ni
+ih n,i n
+n uh,n6
+uh n,6 n
+n ah,nu
+ah n,u n
+n ae,n@
+ae n,@ n
+n er,n3
+er n,3 n
+n ey,nA
+ey n,A n
+n ay,nI
+ay n,I n
+n ow,nO
+ow n,O n
+n aw,n8
+aw n,8 n
+n oy,nQ
+oy n,Q n
+n ax,nx
+ax n,x n
+ng aa,na
+aa ng,a n
+ng ao,n9
+ao ng,9 n
+ng iy,nE
+iy ng,E n
+ng uw,no
+uw ng,o n
+ng eh,ne
+eh ng,e n
+ng ih,ni
+ih ng,i n
+ng uh,n6
+uh ng,6 n
+ng ah,nu
+ah ng,u n
+ng ae,n@
+ae ng,@ n
+ng er,n3
+er ng,3 n
+ng ey,nA
+ey ng,A n
+ng ay,nI
+ay ng,I n
+ng ow,nO
+ow ng,O n
+ng aw,n8
+aw ng,8 n
+ng oy,nQ
+oy ng,Q n
+ng ax,nx
+ax ng,x n
+p aa,pa
+aa p,a p
+p ao,p9
+ao p,9 p
+p iy,pE
+iy p,E p
+p uw,po
+uw p,o p
+p eh,pe
+eh p,e p
+p ih,pi
+ih p,i p
+p uh,p6
+uh p,6 p
+p ah,pu
+ah p,u p
+p ae,p@
+ae p,@ p
+p er,p3
+er p,3 p
+p ey,pA
+ey p,A p
+p ay,pI
+ay p,I p
+p ow,pO
+ow p,O p
+p aw,p8
+aw p,8 p
+p oy,pQ
+oy p,Q p
+p ax,px
+ax p,x p
+q aa,a
+aa q,a t
+q ao,9
+ao q,9 t
+q iy,E
+iy q,E t
+q uw,o
+uw q,o t
+q eh,e
+eh q,e t
+q ih,i
+ih q,i t
+q uh,9
+uh q,9 t
+q ah,u
+ah q,u t
+q ae,@
+ae q,@ t
+q er,3
+er q,3 t
+q ey,A
+ey q,A t
+q ay,I
+ay q,I t
+q ow,O
+ow q,O t
+q aw,8
+aw q,8 t
+q oy,Q
+oy q,Q t
+q ax,x
+ax q,x t
+r aa,ra
+aa r,a r
+r ao,r9
+ao r,9 r
+r iy,rE
+iy r,E r
+r uw,ro
+uw r,o r
+r eh,re
+eh r,e r
+r ih,ri
+ih r,i r
+r uh,r6
+uh r,6 r
+r ah,ru
+ah r,u r
+r ae,r@
+ae r,@ r
+r er,r3
+er r,3 r
+r ey,rA
+ey r,A r
+r ay,rI
+ay r,I r
+r ow,rO
+ow r,O r
+r aw,r8
+aw r,8 r
+r oy,rQ
+oy r,Q r
+r ax,rx
+ax r,x r
+s aa,sa
+aa s,a s
+s ao,s9
+ao s,9 s
+s iy,sE
+iy s,E s
+s uw,so
+uw s,o s
+s eh,se
+eh s,e s
+s ih,si
+ih s,i s
+s uh,s6
+uh s,6 s
+s ah,su
+ah s,u s
+s ae,s@
+ae s,@ s
+s es,s3
+es s,3 s
+s ey,sA
+ey s,A s
+s ay,sI
+ay s,I s
+s ow,sO
+ow s,O s
+s aw,s8
+aw s,8 s
+s oy,sQ
+oy s,Q s
+s ax,sx
+ax s,x s
+sh aa,sha
+aa sh,a sh
+sh ao,sh9
+ao sh,9 sh
+sh iy,shE
+iy sh,E sh
+sh uw,sho
+uw sh,o sh
+sh eh,she
+eh sh,e sh
+sh ih,shi
+ih sh,i sh
+sh uh,sh6
+uh sh,6 sh
+sh ah,shu
+ah sh,u sh
+sh ae,sh@
+ae sh,@ sh
+sh er,sh3
+er sh,3 sh
+sh ey,shA
+ey sh,A sh
+sh ay,shI
+ay sh,I sh
+sh ow,shO
+ow sh,O sh
+sh aw,sh8
+aw sh,8 sh
+sh oy,shQ
+oy sh,Q sh
+sh ax,shx
+ax sh,x sh
+t aa,ta
+aa t,a t
+t ao,t9
+ao t,9 t
+t iy,tE
+iy t,E t
+t uw,to
+uw t,o t
+t eh,te
+eh t,e t
+t ih,ti
+ih t,i t
+t uh,t6
+uh t,6 t
+t ah,tu
+ah t,u t
+t ae,t@
+ae t,@ t
+t er,t3
+er t,3 t
+t ey,tA
+ey t,A t
+t ay,tI
+ay t,I t
+t ow,tO
+ow t,O t
+t aw,t8
+aw t,8 t
+t oy,tQ
+oy t,Q t
+t ax,tx
+ax t,x t
+th aa,tha
+aa th,a th
+th ao,th9
+ao th,9 th
+th iy,thE
+iy th,E th
+th uw,tho
+uw th,o th
+th eh,the
+eh th,e th
+th ih,thE
+ih th,E th
+th uh,th6
+uh th,6 th
+th ah,thu
+ah th,u th
+th ae,th@
+ae th,@ th
+th er,th3
+er th,3 th
+th ey,thA
+ey th,A th
+th ay,thI
+ay th,I th
+th ow,thO
+ow th,O th
+th aw,th8
+aw th,8 th
+th oy,thQ
+oy th,Q th
+th ax,thx
+ax th,x th
+v aa,va
+aa v,a v
+v ao,v9
+ao v,9 v
+v iy,vE
+iy v,E v
+v uw,vo
+uw v,o v
+v eh,ve
+eh v,e v
+v ih,vi
+ih v,i v
+v uh,v6
+uh v,6 v
+v ah,vu
+ah v,u v
+v ae,v@
+ae v,@ v
+v er,v3
+er v,3 v
+v ey,vA
+ey v,A v
+v ay,vI
+ay v,I v
+v ow,vO
+ow v,O v
+v aw,v8
+aw v,8 v
+v oy,vQ
+oy v,Q v
+v ax,vx
+ax v,x v
+w aa,wa
+aa w,a w
+w ao,w9
+ao w,9 w
+w iy,wE
+iy w,E w
+w uw,wo
+uw w,o w
+w eh,we
+eh w,e w
+w ih,wi
+ih w,i w
+w uh,w6
+uh w,6 w
+w ah,wu
+ah w,u w
+w ae,w@
+ae w,@ w
+w er,w3
+er w,3 w
+w ey,wA
+ey w,A w
+w ay,wI
+ay w,I w
+w ow,wO
+ow w,O w
+w aw,w8
+aw w,8 w
+w oy,wQ
+oy w,Q w
+w ax,wx
+ax w,x w
+y aa,ya
+aa y,a y
+y ao,y9
+ao y,9 y
+y iy,yE
+iy y,E y
+y uw,yo
+uw y,o y
+y eh,ye
+eh y,e y
+y ih,yi
+ih y,i y
+y uh,y6
+uh y,6 y
+y ah,yu
+ah y,u y
+y ae,y@
+ae y,@ y
+y er,y3
+er y,3 y
+y ey,yA
+ey y,A y
+y ay,yI
+ay y,I y
+y ow,yO
+ow y,O y
+y aw,y8
+aw y,8 y
+y oy,yQ
+oy y,Q y
+y ax,yx
+ax y,x y
+z aa,za
+aa z,a z
+z ao,z9
+ao z,9 z
+z iy,zE
+iy z,E z
+z uw,zo
+uw z,o z
+z eh,ze
+eh z,e z
+z ih,zi
+ih z,i z
+z uh,z6
+uh z,6 z
+z ah,zu
+ah z,u z
+z ae,z@
+ae z,@ z
+z er,z3
+er z,3 z
+z ey,zA
+ey z,A z
+z ay,zI
+ay z,I z
+z ow,zO
+ow z,O z
+z aw,z8
+aw z,8 z
+z oy,zQ
+oy z,Q z
+z ax,zx
+ax z,x z
+zh aa,zha
+aa zh,a zh
+zh ao,zh9
+ao zh,9 zh
+zh iy,zhE
+iy zh,E zh
+zh uw,zho
+uw zh,o zh
+zh eh,zhe
+eh zh,e zh
+zh ih,zhi
+ih zh,i zh
+zh uh,zh6
+uh zh,6 zh
+zh ah,zhu
+ah zh,u zh
+zh ae,zh@
+ae zh,@ zh
+zh er,zh3
+er zh,3 zh
+zh ey,zhA
+ey zh,A zh
+zh ay,zhI
+ay zh,I zh
+zh ow,zhO
+ow zh,O zh
+zh aw,zh8
+aw zh,8 zh
+zh oy,zhQ
+oy zh,Q z
+zh ax,zhx
+ax zh,x zh
+dx aa,dda
+aa dx,a dd
+dx ao,dd9
+ao dx,9 dd
+dx iy,ddE
+iy dx,E dd
+dx uw,ddo
+uw dx,o dd
+dx eh,dde
+eh dx,e dd
+dx ih,ddi
+ih dx,i dd
+dx uh,dd6
+uh dx,6 dd
+dx ah,ddu
+ah dx,u dd
+dx ae,dd@
+ae dx,@ dd
+dx er,dd3
+er dx,3 dd
+dx ey,ddA
+ey dx,A dd
+dx ay,ddI
+ay dx,I dd
+dx ow,ddO
+ow dx,O dd
+dx aw,dd8
+aw dx,8 dd
+dx oy,ddQ
+oy dx,Q dd
+dx ax,ddx
+ax dx,x dd
+ay er,I3
+er iy,3E
+iy ah,Eu
+ah iy,uE
+ih iy,iE
+iy ay,EI
+ay ih,Ii
+ih uw,io
+ow ih,Oi
+ih uw,io
+uw ah,ou
+ah ow,uO
+iy ih,Ei
+ih ow,iO
+ow ay,OI
+uw ih,oi
+ih uw,io
+uw ay,oI
+ay ey,IA
+ey ih,Ai
+ih er,i3
+er aw,39
+aw er,83
+iy ey,EA
+ey ay,AI
+ay ow,IO
+ow ah,Ou
+ao aw,O9
+aw ay,9I
+ay ay,II
+ay ae,I@
+eh er,e3
+er ah,3u
+ah uw,uo
+uw aa,oa
+er ay,3I
+ay ah,Iu
+ah eh,ue
+eh aw,e9
+b b,b b
+ch b,chb
+d b,db
+dh b,dhb
+f b,fb
+g b,gb
+hh b,hb
+jh b,jb
+k b,kb
+l b,lb
+m b,mb
+n b,nb
+ng b,ngb
+p b,pb
+r b,rb
+s b,sb
+sh b,shb
+t b,tb
+th b,thb
+v b,vb
+z b,zb
+zh b,zhb
+b ch,bch
+ch ch,chch
+d ch,dch
+dh ch,dhch
+f ch,fch
+g ch,gch
+hh ch,hch
+jh ch,jch
+k ch,kch
+l ch,lch
+m ch,mch
+n ch,nch
+ng ch,ngch
+p ch,pch
+r ch,rch
+s ch,sch
+sh ch,shch
+t ch,tch
+th ch,thch
+v ch,vch
+z ch,zch
+zh ch,zhch
+b d,bd
+ch d,chd
+d d,d d
+dh d,dhd
+f d,fd
+g d,gd
+hh d,hd
+jh d,jd
+k d,kd
+l d,ld
+m d,md
+n d,nd
+ng d,ngd
+p d,pd
+r d,rd
+s d,sd
+sh d,shd
+t d,td
+th d,thd
+v d,vd
+z d,zd
+zh d,zhd
+b dh,bdh
+ch dh,chdh
+d dh,ddh
+dh dh,dhdh
+f dh,fdh
+g dh,gdh
+hh dh,hdh
+jh dh,jdh
+k dh,kdh
+l dh,ldh
+m dh,mdh
+n dh,ndh
+ng dh,ngdh
+p dh,pdh
+r dh,rdh
+s dh,sdh
+sh dh,shdh
+t dh,tdh
+th dh,thdh
+v dh,vdh
+z dh,zdh
+zh dh,zhdh
+b f,bf
+ch f,chf
+d f,df
+dh f,dhf
+f f,ff
+g f,gf
+hh f,hf
+jh f,jf
+k f,kf
+l f,lf
+m f,mf
+n f,nf
+ng f,ngf
+p f,pf
+r f,rf
+s f,sf
+sh f,shf
+t f,tf
+th f,thf
+v f,vf
+z f,zf
+zh f,zhf
+b g,bg
+ch g,chg
+d g,dg
+dh g,dhg
+f g,fg
+g g,gg
+hh g,hg
+jh g,jg
+k g,kg
+l g,lg
+m g,mg
+n g,ng
+ng g,n g
+p g,pg
+r g,rg
+s g,sg
+sh g,shg
+t g,tg
+th g,thg
+v g,vg
+z g,zg
+zh g,zhg
+b hh,bh
+ch hh,chh
+d hh,d h
+dh hh,dh h
+f hh,fh
+g hh,gh
+hh hh,hh
+jh hh,jh
+k hh,kh
+l hh,lh
+m hh,mh
+n hh,nh
+ng hh,ngh
+p hh,ph
+r hh,rh
+s hh,sh
+sh hh,shh
+t hh,th
+th hh,thh
+v hh,vh
+z hh,zh
+zh hh,zhh
+b jh,bj
+ch jh,chj
+d jh,dj
+dh jh,dhj
+f jh,fj
+g jh,gj
+hh jh,hj
+jh jh,jj
+k jh,kj
+l jh,lj
+m jh,mj
+n jh,nj
+ng jh,ngj
+p jh,pj
+r jh,rj
+s jh,sj
+sh jh,shj
+t jh,tj
+th jh,thj
+v jh,vj
+z jh,zj
+zh jh,zhj
+b k,bk
+ch k,chk
+d k,dk
+dh k,dhk
+f k,fk
+g k,gk
+hh k,hk
+jh k,jk
+k k,kk
+l k,lk
+m k,mk
+n k,nk
+ng k,ngk
+p k,pk
+r k,rk
+s k,sk
+sh k,shk
+t k,tk
+th k,thk
+v k,vk
+z k,zk
+zh k,zhk
+b l,bl
+ch l,chl
+d l,dl
+dh l,dhl
+f l,fl
+g l,gl
+hh l,hl
+jh l,jl
+k l,kl
+l l,l l
+m l,ml
+n l,nl
+ng l,ngl
+p l,pl
+r l,rl
+s l,sl
+sh l,shl
+t l,tl
+th l,thl
+v l,vl
+z l,zl
+zh l,zhl
+b m,bm
+ch m,chm
+d m,dm
+dh m,dhm
+f m,fm
+g m,gm
+hh m,hm
+jh m,jm
+k m,km
+l m,lm
+m m,m m
+n m,nm
+ng m,ngm
+p m,pm
+r m,rm
+s m,sm
+sh m,shm
+t m,tm
+th m,thm
+v m,vm
+z m,zm
+zh m,zhm
+b n,bn
+ch n,chn
+d n,dn
+dh n,dhn
+f n,fn
+g n,gn
+hh n,hn
+jh n,jn
+k n,kn
+l n,ln
+m n,mn
+n n,nn
+ng n,ngn
+p n,pn
+r n,rn
+s n,sn
+sh n,shn
+t n,tn
+th n,thn
+v n,vn
+z n,zn
+zh n,zhn
+b ng,bng
+ch ng,chng
+d ng,dng
+dh ng,dhng
+f ng,fng
+g ng,gng
+hh ng,hng
+jh ng,jng
+k ng,kng
+l ng,lng
+m ng,mng
+n ng,nng
+ng ng,ngng
+p ng,png
+r ng,rng
+s ng,sng
+sh ng,shng
+t ng,tng
+th ng,thng
+v ng,vng
+z ng,zng
+zh ng,zhng
+b p,bp
+ch p,chp
+d p,dp
+dh p,dhp
+f p,fp
+g p,gp
+hh p,hp
+jh p,jp
+k p,kp
+l p,lp
+m p,mp
+n p,np
+ng p,ngp
+p p,pp
+r p,rp
+s p,sp
+sh p,shp
+t p,tp
+th p,thp
+v p,vp
+z p,zp
+zh p,zhp
+b r,br
+ch r,chr
+d r,dr
+dh r,dhr
+f r,fr
+g r,gr
+hh r,hr
+jh r,jr
+k r,kr
+l r,lr
+m r,mr
+n r,nr
+ng r,ngr
+p r,pr
+r r,3r
+s r,sr
+sh r,shr
+t r,tr
+th r,thr
+v r,vr
+z r,zr
+zh r,zhr
+b s,bs
+ch s,chs
+d s,ds
+dh s,dhs
+f s,fs
+g s,gs
+hh s,hs
+jh s,js
+k s,ks
+l s,ls
+m s,ms
+n s,ns
+ng s,ngs
+p s,ps
+r s,rs
+s s,ss
+sh s,shs
+t s,ts
+th s,ths
+v s,vs
+z s,zs
+zh s,zhs
+b sh,bsh
+ch sh,chsh
+d sh,dsh
+dh sh,dhsh
+f sh,fsh
+g sh,gsh
+hh sh,hsh
+jh sh,jsh
+k sh,ksh
+l sh,lsh
+m sh,msh
+n sh,nsh
+ng sh,ngsh
+p sh,psh
+r sh,rsh
+s sh,ssh
+sh sh,shsh
+t sh,tsh
+th sh,thsh
+v sh,vsh
+z sh,zsh
+zh sh,zhsh
+b t,bt
+ch t,cht
+d t,dt
+dh t,dht
+f t,ft
+g t,gt
+hh t,ht
+jh t,jt
+k t,kt
+l t,lt
+m t,mt
+n t,nt
+ng t,ngt
+p t,pt
+r t,rt
+s t,st
+sh t,sht
+t t,tt
+th t,tht
+v t,vt
+z t,zt
+zh t,zht
+b th,bth
+ch th,chth
+d th,dth
+dh th,dhth
+f th,fth
+g th,gth
+hh th,hth
+jh th,jth
+k th,kth
+l th,lth
+m th,mth
+n th,nth
+ng th,ngth
+p th,pth
+r th,rth
+s th,sth
+sh th,shth
+t th,tth
+th th,thth
+v th,vth
+z th,zth
+zh th,zhth
+b v,bv
+ch v,chv
+d v,dv
+dh v,dhv
+f v,fv
+g v,gv
+hh v,hv
+jh v,jv
+k v,kv
+l v,lv
+m v,mv
+n v,nv
+ng v,ngv
+p v,pv
+r v,rv
+s v,sv
+sh v,shv
+t v,tv
+th v,thv
+v v,vv
+z v,zv
+zh v,zhv
+b w,bw
+ch w,chw
+d w,dw
+dh w,dhw
+f w,fw
+g w,gw
+hh w,hw
+jh w,jw
+k w,kw
+l w,lw
+m w,mw
+n w,nw
+ng w,ngw
+p w,pw
+r w,rw
+s w,sw
+sh w,shw
+t w,tw
+th w,thw
+v w,vw
+z w,zw
+zh w,zhw
+b y,by
+ch y,chy
+d y,dy
+dh y,dhy
+f y,fy
+g y,gy
+hh y,hy
+jh y,jy
+k y,ky
+l y,ly
+m y,my
+n y,ny
+ng y,ngy
+p y,py
+r y,ry
+s y,sy
+sh y,shy
+t y,ty
+th y,thy
+v y,vy
+z y,zy
+zh y,zhy
+b z,bz
+ch z,chz
+d z,dz
+dh z,dhz
+f z,fz
+g z,gz
+hh z,hz
+jh z,dhz
+k z,kz
+l z,lz
+m z,mz
+n z,nz
+ng z,ngz
+p z,pz
+r z,rz
+s z,sz
+sh z,shz
+t z,tz
+th z,thz
+v z,vz
+z z,zz
+zh z,zhz
+b zh,bzh
+ch zh,chzh
+d zh,dzh
+dh zh,dhzh
+f zh,fzh
+g zh,gzh
+hh zh,hzh
+jh zh,jzh
+k zh,kzh
+l zh,lzh
+m zh,mzh
+n zh,nzh
+ng zh,ngzh
+p zh,pzh
+r zh,rzh
+s zh,szh
+sh zh,shzh
+t zh,tzh
+th zh,thzh
+v zh,vzh
+z zh,zzh
+zh zh,zhzh
+- b,-b
+b -,b-
+- ch,-ch
+ch -,ch-
+- d,-d
+d -,d-
+- dh,-dh
+dh -,dh-
+- f,-f
+f -,f-
+- g,-g
+g -,g-
+- hh,-h
+hh -,h-
+- jh,-j
+jh -,j-
+- k,-k
+k -,k-
+- l,-l
+l -,l-
+- m,-m
+m -,m-
+- n,-n
+n -,n-
+- ng,-ng
+ng -,ng-
+- p,-p
+p -,p-
+- dx,-dd
+dx -,dd-
+- r,-r
+r -,r-
+- s,-s
+s -,s-
+- sh,-sh
+sh -,sh-
+- t,-t
+t -,t-
+- th,-th
+th -,th-
+- v,-v
+v -,v-
+- w,-w
+w -,w-
+- y,-y
+y -,y-
+- z,-z
+z -,z-
+- zh,-zh
+zh -,zh-
+- aa1,-a
+aa1,a
+aa -1,a-
+- ao1,-9
+ao1,9
+ao -1,9-
+- iy1,-E
+iy1,E
+iy -1,E-
+- uw1,-o
+uw1,o
+uw -1,o-
+- eh1,-e
+eh1,e
+eh -1,e-
+- ih1,-i
+ih1,i
+ih -1,i-
+- uh1,-6
+uh1,6
+uh -1,6-
+- ah1,-u
+ah1,u
+ah -1,u-
+- ae1,-@
+ae1,@
+ae -1,@-
+- er1,-3
+er1,3
+er -1,3-
+- ey1,-A
+ey1,S
+ey -1,A-
+- ay1,-I
+ay1,I
+ay -1,I-
+- ow1,-O
+ow1,O
+ow -1,O-
+- aw1,-8
+aw1,8
+aw -1,8-
+- oy1,-Q
+oy1,Q
+oy -1,Q-
+- ax1,-x
+ax1,x
+ax -1,x-
+b aa1,ba
+aa b1,a b
+b ao1,b9
+ao b1,9 b
+b iy1,bE
+iy b1,E b
+b uw1,bo
+uw b1,o b
+b eh1,be
+eh b1,e b
+b ih1,bi
+ih b1,i b
+b uh1,b6
+uh b1,6 b
+b ah1,bu
+ah b1,u b
+b ae1,b@
+ae b1,@ b
+b er1,b3
+er b1,3 b
+b ey1,bA
+ey b1,A b
+b ay1,bI
+ay b1,I b
+b ow1,bO
+ow b1,O b
+b aw1,b8
+aw b1,8 b
+b oy1,bQ
+oy b1,Q b
+b ax1,bx
+ax b1,x b
+ch aa1,cha
+aa ch1,a ch
+ch ao1,ch9
+ao ch1,9 ch
+ch iy1,chE
+iy ch1,E ch
+ch uw1,cho
+uw ch1,o ch
+ch eh1,che
+eh ch1,e ch
+ch ih1,chi
+ih ch1,i ch
+ch uh1,ch6
+uh ch1,6 ch
+ch ah1,chu
+ah ch1,u ch
+ch ae1,ch@
+ae ch1,@ ch
+ch er1,ch3
+er ch1,3 ch
+ch ey1,chA
+ey ch1,A ch
+ch ay1,chI
+ay ch1,I ch
+ch ow1,chO
+ow ch1,O ch
+ch aw1,ch8
+aw ch1,8 ch
+ch oy1,chQ
+oy ch1,Q ch
+ch ax1,chx
+ax ch1,x ch
+dh aa1,dha
+aa dh1,a dh
+dh ao1,dh9
+ao dh1,9 dh
+dh iy1,dhE
+iy dh1,E dh
+dh uw1,dho
+uw dh1,o dh
+dh eh1,dhe
+eh dh1,e dh
+dh ih1,dhi
+ih dh1,i dh
+dh uh1,dh6
+uh dh1,6 dh
+dh ah1,dhu
+ah dh1,u dh
+dh ae1,dh@
+ae dh1,@ dh
+dh er1,dh3
+er dh1,3 dh
+dh ey1,dhA
+ey dh1,A dh
+dh ay1,dhI
+ay dh1,I dh
+dh ow1,dhO
+ow dh1,O dh
+dh aw1,dh8
+aw dh1,8 dh
+dh oy1,dhQ
+oy dh1,Q dh
+dh ax1,dhx
+ax dh1,x dh
+d aa1,da
+aa d1,a d
+d ao1,d9
+ao d1,9 d
+d iy1,dE
+iy d1,E d
+d uw1,do
+uw d1,o d
+d eh1,de
+eh d1,e d
+d ih1,di
+ih d1,i d
+d uh1,d6
+uh d1,6 d
+d ah1,du
+ah d1,u d
+d ae1,d@
+ae d1,@ d
+d er1,d3
+er d1,3 d
+d ey1,dA
+ey d1,A d
+d ay1,dI
+ay d1,I d
+d ow1,dO
+ow d1,O d
+d aw1,d8
+aw d1,8 d
+d oy1,dQ
+oy d1,Q d
+d ax1,dx
+ax d1,x d
+f aa1,fa
+aa f1,a f
+f ao1,f9
+ao f1,9 f
+f iy1,fE
+iy f1,E f
+f uw1,fo
+uw f1,o f
+f eh1,fe
+eh f1,e f
+f ih1,fi
+ih f1,i f
+f uh1,f6
+uh f1,6 f
+f ah1,fu
+ah f1,u f
+f ae1,f@
+ae f1,@ f
+f er1,f3
+er f1,3 f
+f ey1,fA
+ey f1,A f
+f ay1,fI
+ay f1,I f
+f ow1,fO
+ow f1,O f
+f aw1,f8
+aw f1,8 f
+f oy1,fQ
+oy f1,Q f
+f ax1,fx
+ax f1,x f
+g aa1,ga
+aa g1,a g
+g ao1,g9
+ao g1,9 g
+g iy1,gE
+iy g1,E g
+g uw1,go
+uw g1,o g
+g eh1,ge
+eh g1,e g
+g ih1,gi
+ih g1,i g
+g uh1,g6
+uh g1,6 g
+g ah1,gu
+ah g1,u g
+g ae1,g@
+ae g1,@ g
+g er1,g3
+er g1,3 g
+g ey1,gA
+ey g1,A g
+g ay1,gI
+ay g1,I g
+g ow1,gO
+ow g1,O g
+g aw1,g8
+aw g1,8 g
+g oy1,gQ
+oy g1,Q g
+g ax1,gx
+ax g1,x g
+hh aa1,ha
+aa hh1,a h
+hh ao1,h9
+ao hh1,9 h
+hh iy1,hhE
+iy hh1,E h
+hh uw1,ho
+uw hh1,o h
+hh eh1,he
+eh hh1,e h
+hh ih1,hi
+ih hh1,i h
+hh uh1,h6
+uh hh1,6 h
+hh ah1,hu
+ah hh1,u h
+hh ae1,h@
+ae hh1,@ h
+hh er1,h3
+er hh1,3 h
+hh ey1,hA
+ey hh1,A h
+hh ay1,hI
+ay hh1,I h
+hh ow1,hO
+ow hh1,O h
+hh aw1,h8
+aw hh1,8 h
+hh oy1,hQ
+oy hh1,Q h
+hh ax1,hx
+ax hh1,x h
+jh aa1,ja
+aa jh1,a j
+jh ao1,j9
+ao jh1,9 j
+jh iy1,jE
+iy jh1,E j
+jh uw1,jo
+uw jh1,o j
+jh eh1,je
+eh jh1,e j
+jh ih1,ji
+ih jh1,i j
+jh uh1,j6
+uh jh1,6 j
+jh ah1,ju
+ah jh1,u j
+jh ae1,j@
+ae jh1,@ j
+jh er1,j3
+er jh1,3 j
+jh ey1,jA
+ey jh1,A j
+jh ay1,jI
+ay jh1,I j
+jh ow1,jO
+ow jh1,O j
+jh aw1,j8
+aw jh1,8 j
+jh oy1,jQ
+oy jh1,Q j
+jh ax1,jx
+ax jh1,x j
+k aa1,ka
+aa k1,a k
+k ao1,k9
+ao k1,9 k
+k iy1,kE
+iy k1,E k
+k uw1,ko
+uw k1,o k
+k eh1,ke
+eh k1,e k
+k ih1,ki
+ih k1,i k
+k uh1,k6
+uh k1,6 k
+k ah1,ku
+ah k1,u k
+k ae1,k@
+ae k1,@ k
+k er1,k3
+er k1,3 k
+k ey1,kA
+ey k1,A k
+k ay1,kI
+ay k1,I k
+k ow1,kO
+ow k1,O k
+k aw1,k8
+aw k1,8 k
+k oy1,kQ
+oy k1,Q k
+k ax1,kx
+ax k1,x k
+l aa1,la
+aa l1,a l
+l ao1,l9
+ao l1,9 l
+l iy1,lE
+iy l1,E l
+l uw1,lo
+uw l1,o l
+l eh1,le
+eh l1,e l
+l ih1,li
+ih l1,i l
+l uh1,l6
+uh l1,6 l
+l ah1,lu
+ah l1,u l
+l ae1,l@
+ae l1,@ l
+l er1,l3
+er l1,3 l
+l ey1,lA
+ey l1,A l
+l ay1,lI
+ay l1,I l
+l ow1,lO
+ow l1,O l
+l aw1,l8
+aw l1,8 l
+l oy1,lQ
+oy l1,Q l
+l ax1,lx
+ax l1,x l
+m aa1,ma
+aa m1,a m
+m ao1,m9
+ao m1,9 m
+m iy1,mE
+iy m1,E m
+m uw1,mo
+uw m1,o m
+m eh1,me
+eh m1,e m
+m ih1,mi
+ih m1,i m
+m uh1,m6
+uh m1,6 m
+m ah1,mu
+ah m1,u m
+m ae1,m@
+ae m1,@ m
+m er1,m3
+er m1,3 m
+m ey1,mA
+ey m1,A m
+m ay1,mI
+ay m1,I m
+m ow1,mO
+ow m1,O m
+m aw1,m8
+aw m1,8 m
+m oy1,mQ
+oy m1,Q m
+m ax1,mx
+ax m1,x m
+n aa1,na
+aa n1,a n
+n ao1,n9
+ao n1,9 n
+n iy1,nE
+iy n1,E n
+n uw1,no
+uw n1,o n
+n eh1,ne
+eh n1,e n
+n ih1,ni
+ih n1,i n
+n uh1,n6
+uh n1,6 n
+n ah1,nu
+ah n1,u n
+n ae1,n@
+ae n1,@ n
+n er1,n3
+er n1,3 n
+n ey1,nA
+ey n1,A n
+n ay1,nI
+ay n1,I n
+n ow1,nO
+ow n1,O n
+n aw1,n8
+aw n1,8 n
+n oy1,nQ
+oy n1,Q n
+n ax1,nx
+ax n1,x n
+ng aa1,na
+aa ng1,a n
+ng ao1,n9
+ao ng1,9 n
+ng iy1,nE
+iy ng1,E n
+ng uw1,no
+uw ng1,o n
+ng eh1,ne
+eh ng1,e n
+ng ih1,ni
+ih ng1,i n
+ng uh1,n6
+uh ng1,6 n
+ng ah1,nu
+ah ng1,u n
+ng ae1,n@
+ae ng1,@ n
+ng er1,n3
+er ng1,3 n
+ng ey1,nA
+ey ng1,A n
+ng ay1,nI
+ay ng1,I n
+ng ow1,nO
+ow ng1,O n
+ng aw1,n8
+aw ng1,8 n
+ng oy1,nQ
+oy ng1,Q n
+ng ax1,nx
+ax ng1,x n
+p aa1,pa
+aa p1,a p
+p ao1,p9
+ao p1,9 p
+p iy1,pE
+iy p1,E p
+p uw1,po
+uw p1,o p
+p eh1,pe
+eh p1,e p
+p ih1,pi
+ih p1,i p
+p uh1,p6
+uh p1,6 p
+p ah1,pu
+ah p1,u p
+p ae1,p@
+ae p1,@ p
+p er1,p3
+er p1,3 p
+p ey1,pA
+ey p1,A p
+p ay1,pI
+ay p1,I p
+p ow1,pO
+ow p1,O p
+p aw1,p8
+aw p1,8 p
+p oy1,pQ
+oy p1,Q p
+p ax1,px
+ax p1,x p
+q aa1,a
+aa q1,a t
+q ao1,9
+ao q1,9 t
+q iy1,E
+iy q1,E t
+q uw1,o
+uw q1,o t
+q eh1,e
+eh q1,e t
+q ih1,i
+ih q1,i t
+q uh1,6
+uh q1,6 t
+q ah1,u
+ah q1,u t
+q ae1,@
+ae q1,@ t
+q er1,3
+er q1,3 t
+q ey1,A
+ey q1,A t
+q ay1,I
+ay q1,I t
+q ow1,O
+ow q1,O t
+q aw1,8
+aw q1,8 t
+q oy1,Q
+oy q1,Q t
+q ax1,x
+ax q1,x t
+r aa1,ra
+aa r1,a r
+r ao1,r9
+ao r1,9 r
+r iy1,rE
+iy r1,E r
+r uw1,ro
+uw r1,o r
+r eh1,re
+eh r1,e r
+r ih1,ri
+ih r1,i r
+r uh1,r6
+uh r1,6 r
+r ah1,ru
+ah r1,u r
+r ae1,r@
+ae r1,@ r
+r er1,r3
+er r1,3 r
+r ey1,rA
+ey r1,A r
+r ay1,rI
+ay r1,I r
+r ow1,rO
+ow r1,O r
+r aw1,r8
+aw r1,8 r
+r oy1,rQ
+oy r1,Q r
+r ax1,rx
+ax r1,x r
+s aa1,sa
+aa s1,a s
+s ao1,s9
+ao s1,9 s
+s iy1,sE
+iy s1,E s
+s uw1,so
+uw s1,o s
+s eh1,se
+eh s1,e s
+s ih1,si
+ih s1,i s
+s uh1,s6
+uh s1,6 s
+s ah1,su
+ah s1,u s
+s ae1,s@
+ae s1,@ s
+s es1,s3
+es s1,3 s
+s ey1,sA
+ey s1,A s
+s ay1,sI
+ay s1,I s
+s ow1,sO
+ow s1,O s
+s aw1,s8
+aw s1,8 s
+s oy1,sQ
+oy s1,Q s
+s ax1,sx
+ax s1,x s
+sh aa1,sha
+aa sh1,a sh
+sh ao1,sh9
+ao sh1,9 sh
+sh iy1,shE
+iy sh1,E sh
+sh uw1,sho
+uw sh1,o sh
+sh eh1,she
+eh sh1,e sh
+sh ih1,shi
+ih sh1,i sh
+sh uh1,sh6
+uh sh1,6 sh
+sh ah1,shu
+ah sh1,u sh
+sh ae1,sh@
+ae sh1,@ sh
+sh er1,sh3
+er sh1,3 sh
+sh ey1,shA
+ey sh1,A sh
+sh ay1,shI
+ay sh1,I sh
+sh ow1,shO
+ow sh1,O sh
+sh aw1,sh8
+aw sh1,8 sh
+sh oy1,shQ
+oy sh1,Q sh
+sh ax1,shx
+ax sh1,x sh
+t aa1,ta
+aa t1,a t
+t ao1,t9
+ao t1,9 t
+t iy1,tE
+iy t1,E t
+t uw1,to
+uw t1,o t
+t eh1,te
+eh t1,e t
+t ih1,ti
+ih t1,i t
+t uh1,t6
+uh t1,6 t
+t ah1,tu
+ah t1,u t
+t ae1,t@
+ae t1,@ t
+t er1,t3
+er t1,3 t
+t ey1,tA
+ey t1,A t
+t ay1,tI
+ay t1,I t
+t ow1,tO
+ow t1,O t
+t aw1,t8
+aw t1,8 t
+t oy1,tQ
+oy t1,Q t
+t ax1,tx
+ax t1,x t
+th aa1,tha
+aa th1,a th
+th ao1,th9
+ao th1,9 th
+th iy1,thE
+iy th1,E th
+th uw1,tho
+uw th1,o th
+th eh1,the
+eh th1,e th
+th ih1,thi
+ih th1,i th
+th uh1,th6
+uh th1,6 th
+th ah1,thu
+ah th1,u th
+th ae1,th@
+ae th1,@ th
+th er1,th3
+er th1,3 th
+th ey1,thA
+ey th1,A th
+th ay1,thI
+ay th1,I th
+th ow1,thO
+ow th1,O th
+th aw1,th8
+aw th1,8 th
+th oy1,thQ
+oy th1,Q th
+th ax1,thx
+ax th1,x th
+v aa1,va
+aa v1,a v
+v ao1,v9
+ao v1,9 v
+v iy1,vE
+iy v1,E v
+v uw1,vo
+uw v1,o v
+v eh1,ve
+eh v1,e v
+v ih1,vi
+ih v1,i v
+v uh1,v6
+uh v1,6 v
+v ah1,vu
+ah v1,u v
+v ae1,v@
+ae v1,@ v
+v er1,v3
+er v1,3 v
+v ey1,vA
+ey v1,A v
+v ay1,vI
+ay v1,I v
+v ow1,vO
+ow v1,O v
+v aw1,v8
+aw v1,8 v
+v oy1,vQ
+oy v1,Q v
+v ax1,vx
+ax v1,x v
+w aa1,wa
+aa w1,a w
+w ao1,w9
+ao w1,9 w
+w iy1,wE
+iy w1,E w
+w uw1,wo
+uw w1,o w
+w eh1,we
+eh w1,e w
+w ih1,wi
+ih w1,i w
+w uh1,w6
+uh w1,6 w
+w ah1,wu
+ah w1,u w
+w ae1,w@
+ae w1,@ w
+w er1,w3
+er w1,3 w
+w ey1,wA
+ey w1,A w
+w ay1,wI
+ay w1,I w
+w ow1,wO
+ow w1,O w
+w aw1,w8
+aw w1,8 w
+w oy1,wQ
+oy w1,Q w
+w ax1,wx
+ax w1,x w
+y aa1,ya
+aa y1,a y
+y ao1,y9
+ao y1,9 y
+y iy1,yE
+iy y1,E y
+y uw1,yo
+uw y1,o y
+y eh1,ye
+eh y1,e y
+y ih1,yi
+ih y1,i y
+y uh1,y6
+uh y1,6 y
+y ah1,yu
+ah y1,u y
+y ae1,y@
+ae y1,@ y
+y er1,y3
+er y1,3 y
+y ey1,yA
+ey y1,A y
+y ay1,yI
+ay y1,I y
+y ow1,yO
+ow y1,O y
+y aw1,y8
+aw y1,8 y
+y oy1,yQ
+oy y1,Q y
+y ax1,yx
+ax y1,x y
+z aa1,za
+aa z1,a z
+z ao1,z9
+ao z1,9 z
+z iy1,zE
+iy z1,E z
+z uw1,zo
+uw z1,o z
+z eh1,ze
+eh z1,e z
+z ih1,zi
+ih z1,i z
+z uh1,z6
+uh z1,6 z
+z ah1,zu
+ah z1,u z
+z ae1,z@
+ae z1,@ z
+z er1,z3
+er z1,3 z
+z ey1,zA
+ey z1,A z
+z ay1,zI
+ay z1,I z
+z ow1,zO
+ow z1,O z
+z aw1,z8
+aw z1,8 z
+z oy1,zQ
+oy z1,Q z
+z ax1,zx
+ax z1,x z
+zh aa1,zha
+aa zh1,a zh
+zh ao1,zh9
+ao zh1,9 zh
+zh iy1,zhE
+iy zh1,E zh
+zh uw1,zho
+uw zh1,o zh
+zh eh1,zhe
+eh zh1,e zh
+zh ih1,zhi
+ih zh1,i zh
+zh uh1,zh6
+uh zh1,6 zh
+zh ah1,zhu
+ah zh1,u zh
+zh ae1,zh@
+ae zh1,@ zh
+zh er1,zh3
+er zh1,3 zh
+zh ey1,zhA
+ey zh1,A zh
+zh ay1,zhI
+ay zh1,I zh
+zh ow1,zhO
+ow zh1,O zh
+zh aw1,zh8
+aw zh1,8 zh
+zh oy1,zhQ
+oy zh1,Q zh
+zh ax1,zhx
+ax zh1,x zh
+dx aa1,dda
+aa dx1,a dd
+dx ao1,dd9
+ao dx1,9 dd
+dx iy1,ddE
+iy dx1,E dd
+dx uw1,ddo
+uw dx1,o dd
+dx eh1,dde
+eh dx1,e dd
+dx ih1,ddi
+ih dx1,i dd
+dx uh1,dd6
+uh dx1,6 dd
+dx ah1,ddu
+ah dx1,u dd
+dx ae1,dd@
+ae dx1,@ dd
+dx er1,dd3
+er dx1,3 dd
+dx ey1,ddA
+ey dx1,A dd
+dx ay1,ddI
+ay dx1,I dd
+dx ow1,ddO
+ow dx1,O dd
+dx aw1,dd8
+aw dx1,8 dd
+dx oy1,ddQ
+oy dx1,Q dd
+dx ax1,ddx
+ax dx1,x dd
+ay er1,I3
+er iy1,3E
+iy ah1,iu
+ah iy1,uE
+ih iy1,iE
+iy ay1,EI
+ay ih1,Ii
+ih uw1,io
+ow ih1,Oi
+ih uw1,io
+uw ah1,ou
+ah ow1,uO
+iy ih1,Ei
+ih ow1,iO
+ow ay1,Oa
+uw ih1,oi
+ih uw1,io
+uw ay1,oI
+ay ey1,IA
+ey ih1,Ai
+ih er1,i3
+er aw1,3a
+aw er1,83
+iy ey1,EA
+ey ay1,AI
+ay ow1,IO
+ow ah1,Ou
+ao aw1,98
+aw ay1,9I
+ay ay1,II
+ay ae1,I@
+eh er1,e3
+er ah1,3u
+ah uw1,uo
+uw aa1,oa
+er ay1,3I
+ay ah1,Iu
+ah eh1,ue
+eh aw1,e9
+b b1,b b
+ch b1,chb
+d b1,d b
+dh b1,dhb
+f b1,f b
+g b1,g b
+hh b1,h b
+jh b1,j b
+k b1,k b
+l b1,lb
+m b1,mb
+n b1,nb
+ng b1,ng b
+p b1,p b
+r b1,rb
+s b1,s b
+sh b1,sh b
+t b1,t b
+th b1,th b
+v b1,v b
+z b1,z b
+zh b1,zh b
+b ch1,b ch
+ch ch1,ch ch
+d ch1,d ch
+dh ch1,dh ch
+f ch1,f ch
+g ch1,g ch
+hh ch1,h ch
+jh ch1,j ch
+k ch1,k ch
+l ch1,lch
+m ch1,mch
+n ch1,nch
+ng ch1,ng ch
+p ch1,p ch
+r ch1,rch
+s ch1,sch
+sh ch1,sh ch
+t ch1,tch
+th ch1,th ch
+v ch1,v ch
+z ch1,z ch
+zh ch1,zh ch
+b d1,bd
+ch d1,chd
+d d1,d d
+dh d1,dhd
+f d1,fd
+g d1,gd
+hh d1,h d
+jh d1,jd
+k d1,kd
+l d1,ld
+m d1,md
+n d1,nd
+ng d1,ng d
+p d1,pd
+r d1,rd
+s d1,sd
+sh d1,shd
+t d1,td
+th d1,thd
+v d1,vd
+z d1,zd
+zh d1,zhd
+b dh1,bdh
+ch dh1,ch dh
+d dh1,ddh
+dh dh1,dh dh
+f dh1,fdh
+g dh1,gdh
+hh dh1,h dh
+jh dh1,j dh
+k dh1,kdh
+l dh1,ldh
+m dh1,mdh
+n dh1,ndh
+ng dh1,ng dh
+p dh1,p dh
+r dh1,rdh
+s dh1,sdh
+sh dh1,sh dh
+t dh1,tdh
+th dh1,th dh
+v dh1,v dh
+z dh1,zdh
+zh dh1,zh dh
+b f1,b f
+ch f1,ch f
+d f1,d f
+dh f1,dh f
+f f1,f f
+g f1,g f
+hh f1,h f
+jh f1,j f
+k f1,k f
+l f1,lf
+m f1,mf
+n f1,nf
+ng f1,ng f
+p f1,p f
+r f1,rf
+s f1,sf
+sh f1,sh f
+t f1,t f
+th f1,th f
+v f1,v f
+z f1,z f
+zh f1,zh f
+b g1,b g
+ch g1,ch g
+d g1,d g
+dh g1,dh g
+f g1,f g
+g g1,g g
+hh g1,h g
+jh g1,j g
+k g1,k g
+l g1,lg
+m g1,mg
+n g1,ng
+ng g1,ng g
+p g1,p g
+r g1,rg
+s g1,s g
+sh g1,sh g
+t g1,t g
+th g1,th g
+v g1,v g
+z g1,z g
+zh g1,zh g
+b hh1,b h
+ch hh1,ch h
+d hh1,d h
+dh hh1,dh h
+f hh1,f h
+g hh1,g h
+hh hh1,h h
+jh hh1,j h
+k hh1,k h
+l hh1,l h
+m hh1,m h
+n hh1,n h
+ng hh1,ng h
+p hh1,p h
+r hh1,r h
+s hh1,s h
+sh hh1,sh h
+t hh1,t h
+th hh1,th h
+v hh1,v h
+z hh1,z h
+zh hh1,zh h
+b jh1,b j
+ch jh1,chj
+d jh1,dj
+dh jh1,dhj
+f jh1,f j
+g jh1,gj
+hh jh1,h j
+jh jh1,j j
+k jh1,k j
+l jh1,lj
+m jh1,mj
+n jh1,nj
+ng jh1,ng j
+p jh1,p j
+r jh1,rj
+s jh1,s j
+sh jh1,sh j
+t jh1,t j
+th jh1,th j
+v jh1,v j
+z jh1,z j
+zh jh1,zh j
+b k1,bk
+ch k1,chk
+d k1,d k
+dh k1,dhk
+f k1,fk
+g k1,g k
+hh k1,h k
+jh k1,j k
+k k1,k k
+l k1,lk
+m k1,mk
+n k1,nk
+ng k1,ng k
+p k1,p k
+r k1,rk
+s k1,sk
+sh k1,shk
+t k1,t k
+th k1,thk
+v k1,v k
+z k1,z k
+zh k1,zh k
+b l1,bl
+ch l1,chl
+d l1,dl
+dh l1,dhl
+f l1,fl
+g l1,gl
+hh l1,h l
+jh l1,jl
+k l1,kl
+l l1,l l
+m l1,ml
+n l1,nl
+ng l1,ng l
+p l1,pl
+r l1,rl
+s l1,sl
+sh l1,shl
+t l1,tl
+th l1,thl
+v l1,vl
+z l1,zl
+zh l1,zhl
+b m1,bm
+ch m1,chm
+d m1,d m
+dh m1,dh m
+f m1,f m
+g m1,g m
+hh m1,h m
+jh m1,j m
+k m1,k m
+l m1,lm
+m m1,m m
+n m1,nm
+ng m1,ng m
+p m1,p m
+r m1,rm
+s m1,sm
+sh m1,sh m
+t m1,t m
+th m1,th m
+v m1,v m
+z m1,zm
+zh m1,zh m
+b n1,bn
+ch n1,ch n
+d n1,d n
+dh n1,dh n
+f n1,f n
+g n1,g n
+hh n1,h n
+jh n1,j n
+k n1,k n
+l n1,ln
+m n1,m n
+n n1,n n
+ng n1,ng n
+p n1,p n
+r n1,rn
+s n1,sn
+sh n1,sh n
+t n1,t n
+th n1,thn
+v n1,v n
+z n1,z n
+zh n1,zh n
+b ng1,b ng
+ch ng1,ch ng
+d ng1,d ng
+dh ng1,dh ng
+f ng1,f ng
+g ng1,g ng
+hh ng1,h ng
+jh ng1,j ng
+k ng1,k ng
+l ng1,l ng
+m ng1,m ng
+n ng1,n ng
+ng ng1,ng ng
+p ng1,p ng
+r ng1,rng
+s ng1,s ng
+sh ng1,sh ng
+t ng1,t ng
+th ng1,th ng
+v ng1,v ng
+z ng1,z ng
+zh ng1,zh ng
+b p1,b p
+ch p1,ch p
+d p1,d p
+dh p1,dh p
+f p1,f p
+g p1,g p
+hh p1,h p
+jh p1,j p
+k p1,k p
+l p1,lp
+m p1,mp
+n p1,np
+ng p1,ng p
+p p1,p p
+r p1,rp
+s p1,s p
+sh p1,sh p
+t p1,t p
+th p1,th p
+v p1,v p
+z p1,z p
+zh p1,zh p
+b r1,br
+ch r1,chr
+d r1,dr
+dh r1,dhr
+f r1,fr
+g r1,gr
+hh r1,h r
+jh r1,j r
+k r1,kr
+l r1,lr
+m r1,mr
+n r1,nr
+ng r1,ng r
+p r1,pr
+r r1,r r
+s r1,sr
+sh r1,shr
+t r1,tr
+th r1,thr
+v r1,vr
+z r1,zr
+zh r1,zhr
+b s1,bs
+ch s1,chs
+d s1,ds
+dh s1,dhs
+f s1,fs
+g s1,gs
+hh s1,h s
+jh s1,js
+k s1,ks
+l s1,ls
+m s1,ms
+n s1,ns
+ng s1,ngs
+p s1,ps
+r s1,rs
+s s1,s s
+sh s1,sh s
+t s1,ts
+th s1,ths
+v s1,vs
+z s1,zs
+zh s1,zhs
+b sh1,bsh
+ch sh1,ch sh
+d sh1,d sh
+dh sh1,dh sh
+f sh1,fsh
+g sh1,g sh
+hh sh1,h sh
+jh sh1,j sh
+k sh1,ksh
+l sh1,lsh
+m sh1,msh
+n sh1,nsh
+ng sh1,ng sh
+p sh1,psh
+r sh1,rsh
+s sh1,s sh
+sh sh1,sh sh
+t sh1,tsh
+th sh1,th sh
+v sh1,v sh
+z sh1,z sh
+zh sh1,zh sh
+b t1,bt
+ch t1,cht
+d t1,dt
+dh t1,dht
+f t1,ft
+g t1,gt
+hh t1,h t
+jh t1,jt
+k t1,kt
+l t1,lt
+m t1,mt
+n t1,nt
+ng t1,ng t
+p t1,pt
+r t1,rt
+s t1,st
+sh t1,sht
+t t1,t t
+th t1,tht
+v t1,vt
+z t1,zt
+zh t1,zht
+b th1,bth
+ch th1,ch th
+d th1,dth
+dh th1,dh th
+f th1,fth
+g th1,gth
+hh th1,h th
+jh th1,j th
+k th1,kth
+l th1,lth
+m th1,mth
+n th1,nth
+ng th1,ng th
+p th1,pth
+r th1,rth
+s th1,sth
+sh th1,sh th
+t th1,tth
+th th1,th th
+v th1,vth
+z th1,zth
+zh th1,zhth
+b v1,bv
+ch v1,chv
+d v1,dv
+dh v1,dhv
+f v1,f v
+g v1,g v
+hh v1,h v
+jh v1,j v
+k v1,k v
+l v1,lv
+m v1,mv
+n v1,nv
+ng v1,ng v
+p v1,p v
+r v1,rv
+s v1,s v
+sh v1,sh v
+t v1,t v
+th v1,th v
+v v1,v v
+z v1,z v
+zh v1,zh v
+b w1,bw
+ch w1,chw
+d w1,dw
+dh w1,dhw
+f w1,fw
+g w1,gw
+hh w1,h w
+jh w1,j w
+k w1,kw
+l w1,lw
+m w1,mw
+n w1,nw
+ng w1,ng w
+p w1,pw
+r w1,rw
+s w1,sw
+sh w1,shw
+t w1,tw
+th w1,thw
+v w1,v w
+z w1,z w
+zh w1,zh w
+b y1,by
+ch y1,chy
+d y1,dy
+dh y1,dhy
+f y1,fy
+g y1,gy
+hh y1,hy
+jh y1,jy
+k y1,ky
+l y1,ly
+m y1,my
+n y1,ny
+ng y1,ng y
+p y1,py
+r y1,ry
+s y1,sy
+sh y1,shy
+t y1,ty
+th y1,thy
+v y1,vy
+z y1,zy
+zh y1,zhy
+b z1,bz
+ch z1,chz
+d z1,dz
+dh z1,dhz
+f z1,fz
+g z1,gz
+hh z1,h z
+jh z1,j z
+k z1,kz
+l z1,lz
+m z1,mz
+n z1,nz
+ng z1,ngz
+p z1,pz
+r z1,rz
+s z1,sz
+sh z1,shz
+t z1,tz
+th z1,thz
+v z1,vz
+z z1,z z
+zh z1,zh z
+b zh1,bzh
+ch zh1,ch zh
+d zh1,dzh
+dh zh1,dh zh
+f zh1,f zh
+g zh1,g zh
+hh zh1,h zh
+jh zh1,j zh
+k zh1,k zh
+l zh1,l zh
+m zh1,m zh
+n zh1,n zh
+ng zh1,ng zh
+p zh1,p zh
+r zh1,r zh
+s zh1,s zh
+sh zh1,sh zh
+t zh1,t zh
+th zh1,th zh
+v zh1,v zh
+z zh1,z zh
+zh zh1,zh zh
+- b1,-b
+b -1,b-
+- ch1,-ch
+ch -1,ch-
+- d1,-d
+d -1,d-
+- dh1,-dh
+dh -1,dh-
+- f1,-f
+f -1,f-
+- g1,-g
+g -1,g-
+- hh1,-h
+hh -1,h-
+- jh1,-j
+jh -1,j-
+- k1,-k
+k -1,k-
+- l1,-l
+l -1,l-
+- m1,-m
+m -1,m-
+- n1,-n
+n -1,n-
+- ng1,-nng
+ng -1,nng-
+- p1,-p
+p -1,p-
+- dx1,-dd
+dx -1,dd-
+- r1,-r
+r -1,r-
+- s1,-s
+s -1,s-
+- sh1,-sh
+sh -1,sh-
+- t1,-t
+t -1,t-
+- th1,-th
+th -1,th-
+- v1,-v
+v -1,v-
+- w1,-w
+w -1,w-
+- y1,-y
+y -1,y-
+- z1,-z
+z -1,z-
+- zh1,-zh
+zh -1,zh-
+- aa2,-a
+aa2,a
+aa -2,a-
+- ao2,-9
+ao2,9
+ao -2,9-
+- iy2,-E
+iy2,E
+iy -2,E-
+- uw2,-o
+uw2,o
+uw -2,o-
+- eh2,-e
+eh2,e
+eh -2,e-
+- ih2,-i
+ih2,i
+ih -2,i-
+- uh2,-6
+uh2,6
+uh -2,6-
+- ah2,-u
+ah2,u
+ah -2,u-
+- ae2,-@
+ae2,@
+ae -2,@-
+- er2,-3
+er2,3
+er -2,3-
+- ey2,-A
+ey2,S
+ey -2,A-
+- ay2,-I
+ay2,I
+ay -2,I-
+- ow2,-O
+ow2,O
+ow -2,O-
+- aw2,-8
+aw2,8
+aw -2,8-
+- oy2,-Q
+oy2,Q
+oy -2,Q-
+- ax2,-x
+ax2,x
+ax -2,x-
+b aa2,ba
+aa b2,a b
+b ao2,b9
+ao b2,9 b
+b iy2,bE
+iy b2,E b
+b uw2,bo
+uw b2,o b
+b eh2,be
+eh b2,e b
+b ih2,bi
+ih b2,i b
+b uh2,b6
+uh b2,6 b
+b ah2,bu
+ah b2,u b
+b ae2,b@
+ae b2,@ b
+b er2,b3
+er b2,3 b
+b ey2,bA
+ey b2,A b
+b ay2,bI
+ay b2,I b
+b ow2,bO
+ow b2,O b
+b aw2,b8
+aw b2,8 b
+b oy2,bQ
+oy b2,Q b
+b ax2,bx
+ax b2,x b
+ch aa2,cha
+aa ch2,a ch
+ch ao2,ch9
+ao ch2,9 ch
+ch iy2,chE
+iy ch2,E ch
+ch uw2,cho
+uw ch2,o ch
+ch eh2,che
+eh ch2,e ch
+ch ih2,chi
+ih ch2,i ch
+ch uh2,ch6
+uh ch2,6 ch
+ch ah2,chu
+ah ch2,u ch
+ch ae2,ch@
+ae ch2,@ ch
+ch er2,ch3
+er ch2,3 ch
+ch ey2,chA
+ey ch2,A ch
+ch ay2,chI
+ay ch2,I ch
+ch ow2,chO
+ow ch2,O ch
+ch aw2,ch8
+aw ch2,8 ch
+ch oy2,chQ
+oy ch2,Q ch
+ch ax2,chx
+ax ch2,x ch
+dh aa2,dha
+aa dh2,a dh
+dh ao2,dh9
+ao dh2,9 dh
+dh iy2,dhE
+iy dh2,E dh
+dh uw2,dho
+uw dh2,o dh
+dh eh2,dhe
+eh dh2,e dh
+dh ih2,dhi
+ih dh2,i dh
+dh uh2,dh6
+uh dh2,6 dh
+dh ah2,dhu
+ah dh2,u dh
+dh ae2,dh@
+ae dh2,@ dh
+dh er2,dh3
+er dh2,3 dh
+dh ey2,dhA
+ey dh2,A dh
+dh ay2,dhI
+ay dh2,I dh
+dh ow2,dhO
+ow dh2,O dh
+dh aw2,dh8
+aw dh2,8 dh
+dh oy2,dhQ
+oy dh2,Q dh
+dh ax2,dhx
+ax dh2,x dh
+d aa2,da
+aa d2,a d
+d ao2,d9
+ao d2,9 d
+d iy2,dE
+iy d2,E d
+d uw2,do
+uw d2,o d
+d eh2,de
+eh d2,e d
+d ih2,di
+ih d2,i d
+d uh2,d6
+uh d2,6 d
+d ah2,du
+ah d2,u d
+d ae2,d@
+ae d2,@ d
+d er2,d3
+er d2,3 d
+d ey2,dA
+ey d2,A d
+d ay2,dI
+ay d2,I d
+d ow2,dO
+ow d2,O d
+d aw2,d8
+aw d2,8 d
+d oy2,dQ
+oy d2,Q d
+d ax2,dx
+ax d2,x d
+f aa2,fa
+aa f2,a f
+f ao2,f9
+ao f2,9 f
+f iy2,fE
+iy f2,E f
+f uw2,fo
+uw f2,o f
+f eh2,fe
+eh f2,e f
+f ih2,fi
+ih f2,i f
+f uh2,f6
+uh f2,6 f
+f ah2,fu
+ah f2,u f
+f ae2,f@
+ae f2,@ f
+f er2,f3
+er f2,3 f
+f ey2,fA
+ey f2,A f
+f ay2,fI
+ay f2,I f
+f ow2,fO
+ow f2,O f
+f aw2,f8
+aw f2,8 f
+f oy2,fQ
+oy f2,Q f
+f ax2,fx
+ax f2,x f
+g aa2,ga
+aa g2,a g
+g ao2,g9
+ao g2,9 g
+g iy2,gE
+iy g2,E g
+g uw2,go
+uw g2,o g
+g eh2,ge
+eh g2,e g
+g ih2,gi
+ih g2,i g
+g uh2,g6
+uh g2,6 g
+g ah2,gu
+ah g2,u g
+g ae2,g@
+ae g2,@ g
+g er2,g3
+er g2,3 g
+g ey2,gA
+ey g2,A g
+g ay2,gI
+ay g2,I g
+g ow2,gO
+ow g2,O g
+g aw2,g8
+aw g2,8 g
+g oy2,gQ
+oy g2,Q g
+g ax2,gx
+ax g2,x g
+hh aa2,ha
+aa hh2,a h
+hh ao2,h9
+ao hh2,9 h
+hh iy2,hhE
+iy hh2,E h
+hh uw2,ho
+uw hh2,o h
+hh eh2,he
+eh hh2,e h
+hh ih2,hi
+ih hh2,i h
+hh uh2,h6
+uh hh2,6 h
+hh ah2,hu
+ah hh2,u h
+hh ae2,h@
+ae hh2,@ h
+hh er2,h3
+er hh2,3 h
+hh ey2,hA
+ey hh2,A h
+hh ay2,hI
+ay hh2,I h
+hh ow2,hO
+ow hh2,O h
+hh aw2,h8
+aw hh2,8 h
+hh oy2,hQ
+oy hh2,Q h
+hh ax2,hx
+ax hh2,x h
+jh aa2,ja
+aa jh2,a j
+jh ao2,j9
+ao jh2,9 j
+jh iy2,jE
+iy jh2,E j
+jh uw2,jo
+uw jh2,o j
+jh eh2,je
+eh jh2,e j
+jh ih2,ji
+ih jh2,i j
+jh uh2,j6
+uh jh2,6 j
+jh ah2,ju
+ah jh2,u j
+jh ae2,j@
+ae jh2,@ j
+jh er2,j3
+er jh2,3 j
+jh ey2,jA
+ey jh2,A j
+jh ay2,jI
+ay jh2,I j
+jh ow2,jO
+ow jh2,O j
+jh aw2,j8
+aw jh2,8 j
+jh oy2,jQ
+oy jh2,Q j
+jh ax2,jx
+ax jh2,x j
+k aa2,ka
+aa k2,a k
+k ao2,k9
+ao k2,9 k
+k iy2,kE
+iy k2,E k
+k uw2,ko
+uw k2,o k
+k eh2,ke
+eh k2,e k
+k ih2,ki
+ih k2,i k
+k uh2,k6
+uh k2,6 k
+k ah2,ku
+ah k2,u k
+k ae2,k@
+ae k2,@ k
+k er2,k3
+er k2,3 k
+k ey2,kA
+ey k2,A k
+k ay2,kI
+ay k2,I k
+k ow2,kO
+ow k2,O k
+k aw2,k8
+aw k2,8 k
+k oy2,kQ
+oy k2,Q k
+k ax2,kx
+ax k2,x k
+l aa2,la
+aa l2,a l
+l ao2,l9
+ao l2,9 l
+l iy2,lE
+iy l2,E l
+l uw2,lo
+uw l2,o l
+l eh2,le
+eh l2,e l
+l ih2,li
+ih l2,i l
+l uh2,l6
+uh l2,6 l
+l ah2,lu
+ah l2,u l
+l ae2,l@
+ae l2,@ l
+l er2,l3
+er l2,3 l
+l ey2,lA
+ey l2,A l
+l ay2,lI
+ay l2,I l
+l ow2,lO
+ow l2,O l
+l aw2,l8
+aw l2,8 l
+l oy2,lQ
+oy l2,Q l
+l ax2,lx
+ax l2,x l
+m aa2,ma
+aa m2,a m
+m ao2,m9
+ao m2,9 m
+m iy2,mE
+iy m2,E m
+m uw2,mo
+uw m2,o m
+m eh2,me
+eh m2,e m
+m ih2,mi
+ih m2,i m
+m uh2,m6
+uh m2,6 m
+m ah2,mu
+ah m2,u m
+m ae2,m@
+ae m2,@ m
+m er2,m3
+er m2,3 m
+m ey2,mA
+ey m2,A m
+m ay2,mI
+ay m2,I m
+m ow2,mO
+ow m2,O m
+m aw2,m8
+aw m2,8 m
+m oy2,mQ
+oy m2,Q m
+m ax2,mx
+ax m2,x m
+n aa2,na
+aa n2,a n
+n ao2,n9
+ao n2,9 n
+n iy2,nE
+iy n2,E n
+n uw2,no
+uw n2,o n
+n eh2,ne
+eh n2,e n
+n ih2,ni
+ih n2,i n
+n uh2,n6
+uh n2,6 n
+n ah2,nu
+ah n2,u n
+n ae2,n@
+ae n2,@ n
+n er2,n3
+er n2,3 n
+n ey2,nA
+ey n2,A n
+n ay2,nI
+ay n2,I n
+n ow2,nO
+ow n2,O n
+n aw2,n8
+aw n2,8 n
+n oy2,nQ
+oy n2,Q n
+n ax2,nx
+ax n2,x n
+ng aa2,na
+aa ng2,a n
+ng ao2,n9
+ao ng2,9 n
+ng iy2,nE
+iy ng2,E n
+ng uw2,no
+uw ng2,o n
+ng eh2,ne
+eh ng2,e n
+ng ih2,ni
+ih ng2,i n
+ng uh2,n6
+uh ng2,6 n
+ng ah2,nu
+ah ng2,u n
+ng ae2,n@
+ae ng2,@ n
+ng er2,n3
+er ng2,3 n
+ng ey2,nA
+ey ng2,A n
+ng ay2,nI
+ay ng2,I n
+ng ow2,nO
+ow ng2,O n
+ng aw2,n8
+aw ng2,8 n
+ng oy2,nQ
+oy ng2,Q n
+ng ax2,nx
+ax ng2,x n
+p aa2,pa
+aa p2,a p
+p ao2,p9
+ao p2,9 p
+p iy2,pE
+iy p2,E p
+p uw2,po
+uw p2,o p
+p eh2,pe
+eh p2,e p
+p ih2,pi
+ih p2,i p
+p uh2,p6
+uh p2,6 p
+p ah2,pu
+ah p2,u p
+p ae2,p@
+ae p2,@ p
+p er2,p3
+er p2,3 p
+p ey2,pA
+ey p2,A p
+p ay2,pI
+ay p2,I p
+p ow2,pO
+ow p2,O p
+p aw2,p8
+aw p2,8 p
+p oy2,pQ
+oy p2,Q p
+p ax2,px
+ax p2,x p
+q aa2,a
+aa q2,a t
+q ao2,9
+ao q2,9 t
+q iy2,E
+iy q2,E t
+q uw2,o
+uw q2,o t
+q eh2,e
+eh q2,e t
+q ih2,i
+ih q2,i t
+q uh2,6
+uh q2,6 t
+q ah2,u
+ah q2,u t
+q ae2,@
+ae q2,@ t
+q er2,3
+er q2,3 t
+q ey2,A
+ey q2,A t
+q ay2,I
+ay q2,I t
+q ow2,O
+ow q2,O t
+q aw2,8
+aw q2,8 t
+q oy2,Q
+oy q2,Q t
+q ax2,x
+ax q2,x t
+r aa2,ra
+aa r2,a r
+r ao2,r9
+ao r2,9 r
+r iy2,rE
+iy r2,E r
+r uw2,ro
+uw r2,o r
+r eh2,re
+eh r2,e r
+r ih2,ri
+ih r2,i r
+r uh2,r6
+uh r2,6 r
+r ah2,ru
+ah r2,u r
+r ae2,r@
+ae r2,@ r
+r er2,r3
+er r2,3 r
+r ey2,rA
+ey r2,A r
+r ay2,rI
+ay r2,I r
+r ow2,rO
+ow r2,O r
+r aw2,r8
+aw r2,8 r
+r oy2,rQ
+oy r2,Q r
+r ax2,rx
+ax r2,x r
+s aa2,sa
+aa s2,a s
+s ao2,s9
+ao s2,9 s
+s iy2,sE
+iy s2,E s
+s uw2,so
+uw s2,o s
+s eh2,se
+eh s2,e s
+s ih2,si
+ih s2,i s
+s uh2,s6
+uh s2,6 s
+s ah2,su
+ah s2,u s
+s ae2,s@
+ae s2,@ s
+s es2,s3
+es s2,3 s
+s ey2,sA
+ey s2,A s
+s ay2,sI
+ay s2,I s
+s ow2,sO
+ow s2,O s
+s aw2,s8
+aw s2,8 s
+s oy2,sQ
+oy s2,Q s
+s ax2,sx
+ax s2,x s
+sh aa2,sha
+aa sh2,a sh
+sh ao2,sh9
+ao sh2,9 sh
+sh iy2,shE
+iy sh2,E sh
+sh uw2,sho
+uw sh2,o sh
+sh eh2,she
+eh sh2,e sh
+sh ih2,shi
+ih sh2,i sh
+sh uh2,sh6
+uh sh2,6 sh
+sh ah2,shu
+ah sh2,u sh
+sh ae2,sh@
+ae sh2,@ sh
+sh er2,sh3
+er sh2,3 sh
+sh ey2,shA
+ey sh2,A sh
+sh ay2,shI
+ay sh2,I sh
+sh ow2,shO
+ow sh2,O sh
+sh aw2,sh8
+aw sh2,8 sh
+sh oy2,shQ
+oy sh2,Q sh
+sh ax2,shx
+ax sh2,x sh
+t aa2,ta
+aa t2,a t
+t ao2,t9
+ao t2,9 t
+t iy2,tE
+iy t2,E t
+t uw2,to
+uw t2,o t
+t eh2,te
+eh t2,e t
+t ih2,ti
+ih t2,i t
+t uh2,t6
+uh t2,6 t
+t ah2,tu
+ah t2,u t
+t ae2,t@
+ae t2,@ t
+t er2,t3
+er t2,3 t
+t ey2,tA
+ey t2,A t
+t ay2,tI
+ay t2,I t
+t ow2,tO
+ow t2,O t
+t aw2,t8
+aw t2,8 t
+t oy2,tQ
+oy t2,Q t
+t ax2,tx
+ax t2,x t
+th aa2,tha
+aa th2,a th
+th ao2,th9
+ao th2,9 th
+th iy2,thE
+iy th2,E th
+th uw2,tho
+uw th2,o th
+th eh2,the
+eh th2,e th
+th ih2,thi
+ih th2,i th
+th uh2,th6
+uh th2,6 th
+th ah2,thu
+ah th2,u th
+th ae2,th@
+ae th2,@ th
+th er2,th3
+er th2,3 th
+th ey2,thA
+ey th2,A th
+th ay2,thI
+ay th2,I th
+th ow2,thO
+ow th2,O th
+th aw2,th8
+aw th2,8 th
+th oy2,thQ
+oy th2,Q th
+th ax2,thx
+ax th2,x th
+v aa2,va
+aa v2,a v
+v ao2,v9
+ao v2,9 v
+v iy2,vE
+iy v2,E v
+v uw2,vo
+uw v2,o v
+v eh2,ve
+eh v2,e v
+v ih2,vi
+ih v2,i v
+v uh2,v6
+uh v2,6 v
+v ah2,vu
+ah v2,u v
+v ae2,v@
+ae v2,@ v
+v er2,v3
+er v2,3 v
+v ey2,vA
+ey v2,A v
+v ay2,vI
+ay v2,I v
+v ow2,vO
+ow v2,O v
+v aw2,v8
+aw v2,8 v
+v oy2,vQ
+oy v2,Q v
+v ax2,vx
+ax v2,x v
+w aa2,wa
+aa w2,a w
+w ao2,w9
+ao w2,9 w
+w iy2,wE
+iy w2,E w
+w uw2,wo
+uw w2,o w
+w eh2,we
+eh w2,e w
+w ih2,wi
+ih w2,i w
+w uh2,w6
+uh w2,6 w
+w ah2,wu
+ah w2,u w
+w ae2,w@
+ae w2,@ w
+w er2,w3
+er w2,3 w
+w ey2,wA
+ey w2,A w
+w ay2,wI
+ay w2,I w
+w ow2,wO
+ow w2,O w
+w aw2,w8
+aw w2,8 w
+w oy2,wQ
+oy w2,Q w
+w ax2,wx
+ax w2,x w
+y aa2,ya
+aa y2,a y
+y ao2,y9
+ao y2,9 y
+y iy2,yE
+iy y2,E y
+y uw2,yo
+uw y2,o y
+y eh2,ye
+eh y2,e y
+y ih2,yi
+ih y2,i y
+y uh2,y6
+uh y2,6 y
+y ah2,yu
+ah y2,u y
+y ae2,y@
+ae y2,@ y
+y er2,y3
+er y2,3 y
+y ey2,yA
+ey y2,A y
+y ay2,yI
+ay y2,I y
+y ow2,yO
+ow y2,O y
+y aw2,y8
+aw y2,8 y
+y oy2,yQ
+oy y2,Q y
+y ax2,yx
+ax y2,x y
+z aa2,za
+aa z2,a z
+z ao2,z9
+ao z2,9 z
+z iy2,zE
+iy z2,E z
+z uw2,zo
+uw z2,o z
+z eh2,ze
+eh z2,e z
+z ih2,zi
+ih z2,i z
+z uh2,z6
+uh z2,6 z
+z ah2,zu
+ah z2,u z
+z ae2,z@
+ae z2,@ z
+z er2,z3
+er z2,3 z
+z ey2,zA
+ey z2,A z
+z ay2,zI
+ay z2,I z
+z ow2,zO
+ow z2,O z
+z aw2,z8
+aw z2,8 z
+z oy2,zQ
+oy z2,Q z
+z ax2,zx
+ax z2,x z
+zh aa2,zha
+aa zh2,a zh
+zh ao2,zh9
+ao zh2,9 zh
+zh iy2,zhE
+iy zh2,E zh
+zh uw2,zho
+uw zh2,o zh
+zh eh2,zhe
+eh zh2,e zh
+zh ih2,zhi
+ih zh2,i zh
+zh uh2,zh6
+uh zh2,6 zh
+zh ah2,zhu
+ah zh2,u zh
+zh ae2,zh@
+ae zh2,@ zh
+zh er2,zh3
+er zh2,3 zh
+zh ey2,zhA
+ey zh2,A zh
+zh ay2,zhI
+ay zh2,I zh
+zh ow2,zhO
+ow zh2,O zh
+zh aw2,zh8
+aw zh2,8 zh
+zh oy2,zhQ
+oy zh2,Q zh
+zh ax2,zhx
+ax zh2,x zh
+dx aa2,dda
+aa dx2,a dd
+dx ao2,dd9
+ao dx2,9 dd
+dx iy2,ddE
+iy dx2,E dd
+dx uw2,ddo
+uw dx2,o dd
+dx eh2,dde
+eh dx2,e dd
+dx ih2,ddi
+ih dx2,i dd
+dx uh2,dd6
+uh dx2,6 dd
+dx ah2,ddu
+ah dx2,u dd
+dx ae2,dd@
+ae dx2,@ dd
+dx er2,dd3
+er dx2,3 dd
+dx ey2,ddA
+ey dx2,A dd
+dx ay2,ddI
+ay dx2,I dd
+dx ow2,ddO
+ow dx2,O dd
+dx aw2,dd8
+aw dx2,8 dd
+dx oy2,ddQ
+oy dx2,Q dd
+dx ax2,ddx
+ax dx2,x dd
+ay er2,I3
+er iy2,3E
+iy ah2,iu
+ah iy2,uE
+ih iy2,iE
+iy ay2,EI
+ay ih2,Ii
+ih uw2,io
+ow ih2,Oi
+ih uw2,io
+uw ah2,ou
+ah ow2,uO
+iy ih2,Ei
+ih ow2,iO
+ow ay2,Oa
+uw ih2,oi
+ih uw2,io
+uw ay2,oI
+ay ey2,IA
+ey ih2,Ai
+ih er2,i3
+er aw2,3a
+aw er2,83
+iy ey2,EA
+ey ay2,AI
+ay ow2,IO
+ow ah2,Ou
+ao aw2,98
+aw ay2,9I
+ay ay2,II
+ay ae2,I@
+eh er2,e3
+er ah2,3u
+ah uw2,uo
+uw aa2,oa
+er ay2,3I
+ay ah2,Iu
+ah eh2,ue
+eh aw2,e9
+b b2,b b
+ch b2,chb
+d b2,d b
+dh b2,dhb
+f b2,f b
+g b2,g b
+hh b2,h b
+jh b2,j b
+k b2,k b
+l b2,lb
+m b2,mb
+n b2,nb
+ng b2,ng b
+p b2,p b
+r b2,rb
+s b2,s b
+sh b2,sh b
+t b2,t b
+th b2,th b
+v b2,v b
+z b2,z b
+zh b2,zh b
+b ch2,b ch
+ch ch2,ch ch
+d ch2,d ch
+dh ch2,dh ch
+f ch2,f ch
+g ch2,g ch
+hh ch2,h ch
+jh ch2,j ch
+k ch2,k ch
+l ch2,lch
+m ch2,mch
+n ch2,nch
+ng ch2,ng ch
+p ch2,p ch
+r ch2,rch
+s ch2,sch
+sh ch2,sh ch
+t ch2,tch
+th ch2,th ch
+v ch2,v ch
+z ch2,z ch
+zh ch2,zh ch
+b d2,bd
+ch d2,chd
+d d2,d d
+dh d2,dhd
+f d2,fd
+g d2,gd
+hh d2,h d
+jh d2,jd
+k d2,kd
+l d2,ld
+m d2,md
+n d2,nd
+ng d2,ng d
+p d2,pd
+r d2,rd
+s d2,sd
+sh d2,shd
+t d2,td
+th d2,thd
+v d2,vd
+z d2,zd
+zh d2,zhd
+b dh2,bdh
+ch dh2,ch dh
+d dh2,ddh
+dh dh2,dh dh
+f dh2,fdh
+g dh2,gdh
+hh dh2,h dh
+jh dh2,j dh
+k dh2,kdh
+l dh2,ldh
+m dh2,mdh
+n dh2,ndh
+ng dh2,ng dh
+p dh2,p dh
+r dh2,rdh
+s dh2,sdh
+sh dh2,sh dh
+t dh2,tdh
+th dh2,th dh
+v dh2,v dh
+z dh2,zdh
+zh dh2,zh dh
+b f2,b f
+ch f2,ch f
+d f2,d f
+dh f2,dh f
+f f2,f f
+g f2,g f
+hh f2,h f
+jh f2,j f
+k f2,k f
+l f2,lf
+m f2,mf
+n f2,nf
+ng f2,ng f
+p f2,p f
+r f2,rf
+s f2,sf
+sh f2,sh f
+t f2,t f
+th f2,th f
+v f2,v f
+z f2,z f
+zh f2,zh f
+b g2,b g
+ch g2,ch g
+d g2,d g
+dh g2,dh g
+f g2,f g
+g g2,g g
+hh g2,h g
+jh g2,j g
+k g2,k g
+l g2,lg
+m g2,mg
+n g2,ng
+ng g2,ng g
+p g2,p g
+r g2,rg
+s g2,s g
+sh g2,sh g
+t g2,t g
+th g2,th g
+v g2,v g
+z g2,z g
+zh g2,zh g
+b hh2,b h
+ch hh2,ch h
+d hh2,d h
+dh hh2,dh h
+f hh2,f h
+g hh2,g h
+hh hh2,h h
+jh hh2,j h
+k hh2,k h
+l hh2,l h
+m hh2,m h
+n hh2,n h
+ng hh2,ng h
+p hh2,p h
+r hh2,r h
+s hh2,s h
+sh hh2,sh h
+t hh2,t h
+th hh2,th h
+v hh2,v h
+z hh2,z h
+zh hh2,zh h
+b jh2,b j
+ch jh2,chj
+d jh2,dj
+dh jh2,dhj
+f jh2,f j
+g jh2,gj
+hh jh2,h j
+jh jh2,j j
+k jh2,k j
+l jh2,lj
+m jh2,mj
+n jh2,nj
+ng jh2,ng j
+p jh2,p j
+r jh2,rj
+s jh2,s j
+sh jh2,sh j
+t jh2,t j
+th jh2,th j
+v jh2,v j
+z jh2,z j
+zh jh2,zh j
+b k2,bk
+ch k2,chk
+d k2,d k
+dh k2,dhk
+f k2,fk
+g k2,g k
+hh k2,h k
+jh k2,j k
+k k2,k k
+l k2,lk
+m k2,mk
+n k2,nk
+ng k2,ng k
+p k2,p k
+r k2,rk
+s k2,sk
+sh k2,shk
+t k2,t k
+th k2,thk
+v k2,v k
+z k2,z k
+zh k2,zh k
+b l2,bl
+ch l2,chl
+d l2,dl
+dh l2,dhl
+f l2,fl
+g l2,gl
+hh l2,h l
+jh l2,jl
+k l2,kl
+l l2,l l
+m l2,ml
+n l2,nl
+ng l2,ng l
+p l2,pl
+r l2,rl
+s l2,sl
+sh l2,shl
+t l2,tl
+th l2,thl
+v l2,vl
+z l2,zl
+zh l2,zhl
+b m2,bm
+ch m2,chm
+d m2,d m
+dh m2,dh m
+f m2,f m
+g m2,g m
+hh m2,h m
+jh m2,j m
+k m2,k m
+l m2,lm
+m m2,m m
+n m2,nm
+ng m2,ng m
+p m2,p m
+r m2,rm
+s m2,sm
+sh m2,sh m
+t m2,t m
+th m2,th m
+v m2,v m
+z m2,zm
+zh m2,zh m
+b n2,bn
+ch n2,ch n
+d n2,d n
+dh n2,dh n
+f n2,f n
+g n2,g n
+hh n2,h n
+jh n2,j n
+k n2,k n
+l n2,ln
+m n2,m n
+n n2,n n
+ng n2,ng n
+p n2,p n
+r n2,rn
+s n2,sn
+sh n2,sh n
+t n2,t n
+th n2,thn
+v n2,v n
+z n2,z n
+zh n2,zh n
+b ng2,b ng
+ch ng2,ch ng
+d ng2,d ng
+dh ng2,dh ng
+f ng2,f ng
+g ng2,g ng
+hh ng2,h ng
+jh ng2,j ng
+k ng2,k ng
+l ng2,l ng
+m ng2,m ng
+n ng2,n ng
+ng ng2,ng ng
+p ng2,p ng
+r ng2,rng
+s ng2,s ng
+sh ng2,sh ng
+t ng2,t ng
+th ng2,th ng
+v ng2,v ng
+z ng2,z ng
+zh ng2,zh ng
+b p2,b p
+ch p2,ch p
+d p2,d p
+dh p2,dh p
+f p2,f p
+g p2,g p
+hh p2,h p
+jh p2,j p
+k p2,k p
+l p2,lp
+m p2,mp
+n p2,np
+ng p2,ng p
+p p2,p p
+r p2,rp
+s p2,s p
+sh p2,sh p
+t p2,t p
+th p2,th p
+v p2,v p
+z p2,z p
+zh p2,zh p
+b r2,br
+ch r2,chr
+d r2,dr
+dh r2,dhr
+f r2,fr
+g r2,gr
+hh r2,h r
+jh r2,j r
+k r2,kr
+l r2,lr
+m r2,mr
+n r2,nr
+ng r2,ng r
+p r2,pr
+r r2,r r
+s r2,sr
+sh r2,shr
+t r2,tr
+th r2,thr
+v r2,vr
+z r2,zr
+zh r2,zhr
+b s2,bs
+ch s2,chs
+d s2,ds
+dh s2,dhs
+f s2,fs
+g s2,gs
+hh s2,h s
+jh s2,js
+k s2,ks
+l s2,ls
+m s2,ms
+n s2,ns
+ng s2,ngs
+p s2,ps
+r s2,rs
+s s2,s s
+sh s2,sh s
+t s2,ts
+th s2,ths
+v s2,vs
+z s2,zs
+zh s2,zhs
+b sh2,bsh
+ch sh2,ch sh
+d sh2,d sh
+dh sh2,dh sh
+f sh2,fsh
+g sh2,g sh
+hh sh2,h sh
+jh sh2,j sh
+k sh2,ksh
+l sh2,lsh
+m sh2,msh
+n sh2,nsh
+ng sh2,ng sh
+p sh2,psh
+r sh2,rsh
+s sh2,s sh
+sh sh2,sh sh
+t sh2,tsh
+th sh2,th sh
+v sh2,v sh
+z sh2,z sh
+zh sh2,zh sh
+b t2,bt
+ch t2,cht
+d t2,dt
+dh t2,dht
+f t2,ft
+g t2,gt
+hh t2,h t
+jh t2,jt
+k t2,kt
+l t2,lt
+m t2,mt
+n t2,nt
+ng t2,ng t
+p t2,pt
+r t2,rt
+s t2,st
+sh t2,sht
+t t2,t t
+th t2,tht
+v t2,vt
+z t2,zt
+zh t2,zht
+b th2,bth
+ch th2,ch th
+d th2,dth
+dh th2,dh th
+f th2,fth
+g th2,gth
+hh th2,h th
+jh th2,j th
+k th2,kth
+l th2,lth
+m th2,mth
+n th2,nth
+ng th2,ng th
+p th2,pth
+r th2,rth
+s th2,sth
+sh th2,sh th
+t th2,tth
+th th2,th th
+v th2,vth
+z th2,zth
+zh th2,zhth
+b v2,bv
+ch v2,chv
+d v2,dv
+dh v2,dhv
+f v2,f v
+g v2,g v
+hh v2,h v
+jh v2,j v
+k v2,k v
+l v2,lv
+m v2,mv
+n v2,nv
+ng v2,ng v
+p v2,p v
+r v2,rv
+s v2,s v
+sh v2,sh v
+t v2,t v
+th v2,th v
+v v2,v v
+z v2,z v
+zh v2,zh v
+b w2,bw
+ch w2,chw
+d w2,dw
+dh w2,dhw
+f w2,fw
+g w2,gw
+hh w2,h w
+jh w2,j w
+k w2,kw
+l w2,lw
+m w2,mw
+n w2,nw
+ng w2,ng w
+p w2,pw
+r w2,rw
+s w2,sw
+sh w2,shw
+t w2,tw
+th w2,thw
+v w2,v w
+z w2,z w
+zh w2,zh w
+b y2,by
+ch y2,chy
+d y2,dy
+dh y2,dhy
+f y2,fy
+g y2,gy
+hh y2,hy
+jh y2,jy
+k y2,ky
+l y2,ly
+m y2,my
+n y2,ny
+ng y2,ng y
+p y2,py
+r y2,ry
+s y2,sy
+sh y2,shy
+t y2,ty
+th y2,thy
+v y2,vy
+z y2,zy
+zh y2,zhy
+b z2,bz
+ch z2,chz
+d z2,dz
+dh z2,dhz
+f z2,fz
+g z2,gz
+hh z2,h z
+jh z2,j z
+k z2,kz
+l z2,lz
+m z2,mz
+n z2,nz
+ng z2,ngz
+p z2,pz
+r z2,rz
+s z2,sz
+sh z2,shz
+t z2,tz
+th z2,thz
+v z2,vz
+z z2,z z
+zh z2,zh z
+b zh2,bzh
+ch zh2,ch zh
+d zh2,dzh
+dh zh2,dh zh
+f zh2,f zh
+g zh2,g zh
+hh zh2,h zh
+jh zh2,j zh
+k zh2,k zh
+l zh2,l zh
+m zh2,m zh
+n zh2,n zh
+ng zh2,ng zh
+p zh2,p zh
+r zh2,r zh
+s zh2,s zh
+sh zh2,sh zh
+t zh2,t zh
+th zh2,th zh
+v zh2,v zh
+z zh2,z zh
+zh zh2,zh zh
+- b2,-b
+b -2,b-
+- ch2,-ch
+ch -2,ch-
+- d2,-d
+d -2,d-
+- dh2,-dh
+dh -2,dh-
+- f2,-f
+f -2,f-
+- g2,-g
+g -2,g-
+- hh2,-h
+hh -2,h-
+- jh2,-j
+jh -2,j-
+- k2,-k
+k -2,k-
+- l2,-l
+l -2,l-
+- m2,-m
+m -2,m-
+- n2,-n
+n -2,n-
+- ng2,-nng
+ng -2,nng-
+- p2,-p
+p -2,p-
+- dx2,-dd
+dx -2,dd-
+- r2,-r
+r -2,r-
+- s2,-s
+s -2,s-
+- sh2,-sh
+sh -2,sh-
+- t2,-t
+t -2,t-
+- th2,-th
+th -2,th-
+- v2,-v
+v -2,v-
+- w2,-w
+w -2,w-
+- y2,-y
+y -2,y-
+- z2,-z
+z -2,z-
+- zh2,-zh
+zh -2,zh-
+- aa3,-a
+aa3,a
+aa -3,a-
+- ao3,-9
+ao3,9
+ao -3,9-
+- iy3,-E
+iy3,E
+iy -3,E-
+- uw3,-o
+uw3,o
+uw -3,o-
+- eh3,-e
+eh3,e
+eh -3,e-
+- ih3,-i
+ih3,i
+ih -3,i-
+- uh3,-6
+uh3,6
+uh -3,6-
+- ah3,-u
+ah3,u
+ah -3,u-
+- ae3,-@
+ae3,@
+ae -3,@-
+- er3,-3
+er3,3
+er -3,3-
+- ey3,-A
+ey3,S
+ey -3,A-
+- ay3,-I
+ay3,I
+ay -3,I-
+- ow3,-O
+ow3,O
+ow -3,O-
+- aw3,-8
+aw3,8
+aw -3,8-
+- oy3,-Q
+oy3,Q
+oy -3,Q-
+- ax3,-x
+ax3,x
+ax -3,x-
+b aa3,ba
+aa b3,a b
+b ao3,b9
+ao b3,9 b
+b iy3,bE
+iy b3,E b
+b uw3,bo
+uw b3,o b
+b eh3,be
+eh b3,e b
+b ih3,bi
+ih b3,i b
+b uh3,b6
+uh b3,6 b
+b ah3,bu
+ah b3,u b
+b ae3,b@
+ae b3,@ b
+b er3,b3
+er b3,3 b
+b ey3,bA
+ey b3,A b
+b ay3,bI
+ay b3,I b
+b ow3,bO
+ow b3,O b
+b aw3,b8
+aw b3,8 b
+b oy3,bQ
+oy b3,Q b
+b ax3,bx
+ax b3,x b
+ch aa3,cha
+aa ch3,a ch
+ch ao3,ch9
+ao ch3,9 ch
+ch iy3,chE
+iy ch3,E ch
+ch uw3,cho
+uw ch3,o ch
+ch eh3,che
+eh ch3,e ch
+ch ih3,chi
+ih ch3,i ch
+ch uh3,ch6
+uh ch3,6 ch
+ch ah3,chu
+ah ch3,u ch
+ch ae3,ch@
+ae ch3,@ ch
+ch er3,ch3
+er ch3,3 ch
+ch ey3,chA
+ey ch3,A ch
+ch ay3,chI
+ay ch3,I ch
+ch ow3,chO
+ow ch3,O ch
+ch aw3,ch8
+aw ch3,8 ch
+ch oy3,chQ
+oy ch3,Q ch
+ch ax3,chx
+ax ch3,x ch
+dh aa3,dha
+aa dh3,a dh
+dh ao3,dh9
+ao dh3,9 dh
+dh iy3,dhE
+iy dh3,E dh
+dh uw3,dho
+uw dh3,o dh
+dh eh3,dhe
+eh dh3,e dh
+dh ih3,dhi
+ih dh3,i dh
+dh uh3,dh6
+uh dh3,6 dh
+dh ah3,dhu
+ah dh3,u dh
+dh ae3,dh@
+ae dh3,@ dh
+dh er3,dh3
+er dh3,3 dh
+dh ey3,dhA
+ey dh3,A dh
+dh ay3,dhI
+ay dh3,I dh
+dh ow3,dhO
+ow dh3,O dh
+dh aw3,dh8
+aw dh3,8 dh
+dh oy3,dhQ
+oy dh3,Q dh
+dh ax3,dhx
+ax dh3,x dh
+d aa3,da
+aa d3,a d
+d ao3,d9
+ao d3,9 d
+d iy3,dE
+iy d3,E d
+d uw3,do
+uw d3,o d
+d eh3,de
+eh d3,e d
+d ih3,di
+ih d3,i d
+d uh3,d6
+uh d3,6 d
+d ah3,du
+ah d3,u d
+d ae3,d@
+ae d3,@ d
+d er3,d3
+er d3,3 d
+d ey3,dA
+ey d3,A d
+d ay3,dI
+ay d3,I d
+d ow3,dO
+ow d3,O d
+d aw3,d8
+aw d3,8 d
+d oy3,dQ
+oy d3,Q d
+d ax3,dx
+ax d3,x d
+f aa3,fa
+aa f3,a f
+f ao3,f9
+ao f3,9 f
+f iy3,fE
+iy f3,E f
+f uw3,fo
+uw f3,o f
+f eh3,fe
+eh f3,e f
+f ih3,fi
+ih f3,i f
+f uh3,f6
+uh f3,6 f
+f ah3,fu
+ah f3,u f
+f ae3,f@
+ae f3,@ f
+f er3,f3
+er f3,3 f
+f ey3,fA
+ey f3,A f
+f ay3,fI
+ay f3,I f
+f ow3,fO
+ow f3,O f
+f aw3,f8
+aw f3,8 f
+f oy3,fQ
+oy f3,Q f
+f ax3,fx
+ax f3,x f
+g aa3,ga
+aa g3,a g
+g ao3,g9
+ao g3,9 g
+g iy3,gE
+iy g3,E g
+g uw3,go
+uw g3,o g
+g eh3,ge
+eh g3,e g
+g ih3,gi
+ih g3,i g
+g uh3,g6
+uh g3,6 g
+g ah3,gu
+ah g3,u g
+g ae3,g@
+ae g3,@ g
+g er3,g3
+er g3,3 g
+g ey3,gA
+ey g3,A g
+g ay3,gI
+ay g3,I g
+g ow3,gO
+ow g3,O g
+g aw3,g8
+aw g3,8 g
+g oy3,gQ
+oy g3,Q g
+g ax3,gx
+ax g3,x g
+hh aa3,ha
+aa hh3,a h
+hh ao3,h9
+ao hh3,9 h
+hh iy3,hhE
+iy hh3,E h
+hh uw3,ho
+uw hh3,o h
+hh eh3,he
+eh hh3,e h
+hh ih3,hi
+ih hh3,i h
+hh uh3,h6
+uh hh3,6 h
+hh ah3,hu
+ah hh3,u h
+hh ae3,h@
+ae hh3,@ h
+hh er3,h3
+er hh3,3 h
+hh ey3,hA
+ey hh3,A h
+hh ay3,hI
+ay hh3,I h
+hh ow3,hO
+ow hh3,O h
+hh aw3,h8
+aw hh3,8 h
+hh oy3,hQ
+oy hh3,Q h
+hh ax3,hx
+ax hh3,x h
+jh aa3,ja
+aa jh3,a j
+jh ao3,j9
+ao jh3,9 j
+jh iy3,jE
+iy jh3,E j
+jh uw3,jo
+uw jh3,o j
+jh eh3,je
+eh jh3,e j
+jh ih3,ji
+ih jh3,i j
+jh uh3,j6
+uh jh3,6 j
+jh ah3,ju
+ah jh3,u j
+jh ae3,j@
+ae jh3,@ j
+jh er3,j3
+er jh3,3 j
+jh ey3,jA
+ey jh3,A j
+jh ay3,jI
+ay jh3,I j
+jh ow3,jO
+ow jh3,O j
+jh aw3,j8
+aw jh3,8 j
+jh oy3,jQ
+oy jh3,Q j
+jh ax3,jx
+ax jh3,x j
+k aa3,ka
+aa k3,a k
+k ao3,k9
+ao k3,9 k
+k iy3,kE
+iy k3,E k
+k uw3,ko
+uw k3,o k
+k eh3,ke
+eh k3,e k
+k ih3,ki
+ih k3,i k
+k uh3,k6
+uh k3,6 k
+k ah3,ku
+ah k3,u k
+k ae3,k@
+ae k3,@ k
+k er3,k3
+er k3,3 k
+k ey3,kA
+ey k3,A k
+k ay3,kI
+ay k3,I k
+k ow3,kO
+ow k3,O k
+k aw3,k8
+aw k3,8 k
+k oy3,kQ
+oy k3,Q k
+k ax3,kx
+ax k3,x k
+l aa3,la
+aa l3,a l
+l ao3,l9
+ao l3,9 l
+l iy3,lE
+iy l3,E l
+l uw3,lo
+uw l3,o l
+l eh3,le
+eh l3,e l
+l ih3,li
+ih l3,i l
+l uh3,l6
+uh l3,6 l
+l ah3,lu
+ah l3,u l
+l ae3,l@
+ae l3,@ l
+l er3,l3
+er l3,3 l
+l ey3,lA
+ey l3,A l
+l ay3,lI
+ay l3,I l
+l ow3,lO
+ow l3,O l
+l aw3,l8
+aw l3,8 l
+l oy3,lQ
+oy l3,Q l
+l ax3,lx
+ax l3,x l
+m aa3,ma
+aa m3,a m
+m ao3,m9
+ao m3,9 m
+m iy3,mE
+iy m3,E m
+m uw3,mo
+uw m3,o m
+m eh3,me
+eh m3,e m
+m ih3,mi
+ih m3,i m
+m uh3,m6
+uh m3,6 m
+m ah3,mu
+ah m3,u m
+m ae3,m@
+ae m3,@ m
+m er3,m3
+er m3,3 m
+m ey3,mA
+ey m3,A m
+m ay3,mI
+ay m3,I m
+m ow3,mO
+ow m3,O m
+m aw3,m8
+aw m3,8 m
+m oy3,mQ
+oy m3,Q m
+m ax3,mx
+ax m3,x m
+n aa3,na
+aa n3,a n
+n ao3,n9
+ao n3,9 n
+n iy3,nE
+iy n3,E n
+n uw3,no
+uw n3,o n
+n eh3,ne
+eh n3,e n
+n ih3,ni
+ih n3,i n
+n uh3,n6
+uh n3,6 n
+n ah3,nu
+ah n3,u n
+n ae3,n@
+ae n3,@ n
+n er3,n3
+er n3,3 n
+n ey3,nA
+ey n3,A n
+n ay3,nI
+ay n3,I n
+n ow3,nO
+ow n3,O n
+n aw3,n8
+aw n3,8 n
+n oy3,nQ
+oy n3,Q n
+n ax3,nx
+ax n3,x n
+ng aa3,na
+aa ng3,a n
+ng ao3,n9
+ao ng3,9 n
+ng iy3,nE
+iy ng3,E n
+ng uw3,no
+uw ng3,o n
+ng eh3,ne
+eh ng3,e n
+ng ih3,ni
+ih ng3,i n
+ng uh3,n6
+uh ng3,6 n
+ng ah3,nu
+ah ng3,u n
+ng ae3,n@
+ae ng3,@ n
+ng er3,n3
+er ng3,3 n
+ng ey3,nA
+ey ng3,A n
+ng ay3,nI
+ay ng3,I n
+ng ow3,nO
+ow ng3,O n
+ng aw3,n8
+aw ng3,8 n
+ng oy3,nQ
+oy ng3,Q n
+ng ax3,nx
+ax ng3,x n
+p aa3,pa
+aa p3,a p
+p ao3,p9
+ao p3,9 p
+p iy3,pE
+iy p3,E p
+p uw3,po
+uw p3,o p
+p eh3,pe
+eh p3,e p
+p ih3,pi
+ih p3,i p
+p uh3,p6
+uh p3,6 p
+p ah3,pu
+ah p3,u p
+p ae3,p@
+ae p3,@ p
+p er3,p3
+er p3,3 p
+p ey3,pA
+ey p3,A p
+p ay3,pI
+ay p3,I p
+p ow3,pO
+ow p3,O p
+p aw3,p8
+aw p3,8 p
+p oy3,pQ
+oy p3,Q p
+p ax3,px
+ax p3,x p
+q aa3,a
+aa q3,a t
+q ao3,9
+ao q3,9 t
+q iy3,E
+iy q3,E t
+q uw3,o
+uw q3,o t
+q eh3,e
+eh q3,e t
+q ih3,i
+ih q3,i t
+q uh3,6
+uh q3,6 t
+q ah3,u
+ah q3,u t
+q ae3,@
+ae q3,@ t
+q er3,3
+er q3,3 t
+q ey3,A
+ey q3,A t
+q ay3,I
+ay q3,I t
+q ow3,O
+ow q3,O t
+q aw3,8
+aw q3,8 t
+q oy3,Q
+oy q3,Q t
+q ax3,x
+ax q3,x t
+r aa3,ra
+aa r3,a r
+r ao3,r9
+ao r3,9 r
+r iy3,rE
+iy r3,E r
+r uw3,ro
+uw r3,o r
+r eh3,re
+eh r3,e r
+r ih3,ri
+ih r3,i r
+r uh3,r6
+uh r3,6 r
+r ah3,ru
+ah r3,u r
+r ae3,r@
+ae r3,@ r
+r er3,r3
+er r3,3 r
+r ey3,rA
+ey r3,A r
+r ay3,rI
+ay r3,I r
+r ow3,rO
+ow r3,O r
+r aw3,r8
+aw r3,8 r
+r oy3,rQ
+oy r3,Q r
+r ax3,rx
+ax r3,x r
+s aa3,sa
+aa s3,a s
+s ao3,s9
+ao s3,9 s
+s iy3,sE
+iy s3,E s
+s uw3,so
+uw s3,o s
+s eh3,se
+eh s3,e s
+s ih3,si
+ih s3,i s
+s uh3,s6
+uh s3,6 s
+s ah3,su
+ah s3,u s
+s ae3,s@
+ae s3,@ s
+s es3,s3
+es s3,3 s
+s ey3,sA
+ey s3,A s
+s ay3,sI
+ay s3,I s
+s ow3,sO
+ow s3,O s
+s aw3,s8
+aw s3,8 s
+s oy3,sQ
+oy s3,Q s
+s ax3,sx
+ax s3,x s
+sh aa3,sha
+aa sh3,a sh
+sh ao3,sh9
+ao sh3,9 sh
+sh iy3,shE
+iy sh3,E sh
+sh uw3,sho
+uw sh3,o sh
+sh eh3,she
+eh sh3,e sh
+sh ih3,shi
+ih sh3,i sh
+sh uh3,sh6
+uh sh3,6 sh
+sh ah3,shu
+ah sh3,u sh
+sh ae3,sh@
+ae sh3,@ sh
+sh er3,sh3
+er sh3,3 sh
+sh ey3,shA
+ey sh3,A sh
+sh ay3,shI
+ay sh3,I sh
+sh ow3,shO
+ow sh3,O sh
+sh aw3,sh8
+aw sh3,8 sh
+sh oy3,shQ
+oy sh3,Q sh
+sh ax3,shx
+ax sh3,x sh
+t aa3,ta
+aa t3,a t
+t ao3,t9
+ao t3,9 t
+t iy3,tE
+iy t3,E t
+t uw3,to
+uw t3,o t
+t eh3,te
+eh t3,e t
+t ih3,ti
+ih t3,i t
+t uh3,t6
+uh t3,6 t
+t ah3,tu
+ah t3,u t
+t ae3,t@
+ae t3,@ t
+t er3,t3
+er t3,3 t
+t ey3,tA
+ey t3,A t
+t ay3,tI
+ay t3,I t
+t ow3,tO
+ow t3,O t
+t aw3,t8
+aw t3,8 t
+t oy3,tQ
+oy t3,Q t
+t ax3,tx
+ax t3,x t
+th aa3,tha
+aa th3,a th
+th ao3,th9
+ao th3,9 th
+th iy3,thE
+iy th3,E th
+th uw3,tho
+uw th3,o th
+th eh3,the
+eh th3,e th
+th ih3,thi
+ih th3,i th
+th uh3,th6
+uh th3,6 th
+th ah3,thu
+ah th3,u th
+th ae3,th@
+ae th3,@ th
+th er3,th3
+er th3,3 th
+th ey3,thA
+ey th3,A th
+th ay3,thI
+ay th3,I th
+th ow3,thO
+ow th3,O th
+th aw3,th8
+aw th3,8 th
+th oy3,thQ
+oy th3,Q th
+th ax3,thx
+ax th3,x th
+v aa3,va
+aa v3,a v
+v ao3,v9
+ao v3,9 v
+v iy3,vE
+iy v3,E v
+v uw3,vo
+uw v3,o v
+v eh3,ve
+eh v3,e v
+v ih3,vi
+ih v3,i v
+v uh3,v6
+uh v3,6 v
+v ah3,vu
+ah v3,u v
+v ae3,v@
+ae v3,@ v
+v er3,v3
+er v3,3 v
+v ey3,vA
+ey v3,A v
+v ay3,vI
+ay v3,I v
+v ow3,vO
+ow v3,O v
+v aw3,v8
+aw v3,8 v
+v oy3,vQ
+oy v3,Q v
+v ax3,vx
+ax v3,x v
+w aa3,wa
+aa w3,a w
+w ao3,w9
+ao w3,9 w
+w iy3,wE
+iy w3,E w
+w uw3,wo
+uw w3,o w
+w eh3,we
+eh w3,e w
+w ih3,wi
+ih w3,i w
+w uh3,w6
+uh w3,6 w
+w ah3,wu
+ah w3,u w
+w ae3,w@
+ae w3,@ w
+w er3,w3
+er w3,3 w
+w ey3,wA
+ey w3,A w
+w ay3,wI
+ay w3,I w
+w ow3,wO
+ow w3,O w
+w aw3,w8
+aw w3,8 w
+w oy3,wQ
+oy w3,Q w
+w ax3,wx
+ax w3,x w
+y aa3,ya
+aa y3,a y
+y ao3,y9
+ao y3,9 y
+y iy3,yE
+iy y3,E y
+y uw3,yo
+uw y3,o y
+y eh3,ye
+eh y3,e y
+y ih3,yi
+ih y3,i y
+y uh3,y6
+uh y3,6 y
+y ah3,yu
+ah y3,u y
+y ae3,y@
+ae y3,@ y
+y er3,y3
+er y3,3 y
+y ey3,yA
+ey y3,A y
+y ay3,yI
+ay y3,I y
+y ow3,yO
+ow y3,O y
+y aw3,y8
+aw y3,8 y
+y oy3,yQ
+oy y3,Q y
+y ax3,yx
+ax y3,x y
+z aa3,za
+aa z3,a z
+z ao3,z9
+ao z3,9 z
+z iy3,zE
+iy z3,E z
+z uw3,zo
+uw z3,o z
+z eh3,ze
+eh z3,e z
+z ih3,zi
+ih z3,i z
+z uh3,z6
+uh z3,6 z
+z ah3,zu
+ah z3,u z
+z ae3,z@
+ae z3,@ z
+z er3,z3
+er z3,3 z
+z ey3,zA
+ey z3,A z
+z ay3,zI
+ay z3,I z
+z ow3,zO
+ow z3,O z
+z aw3,z8
+aw z3,8 z
+z oy3,zQ
+oy z3,Q z
+z ax3,zx
+ax z3,x z
+zh aa3,zha
+aa zh3,a zh
+zh ao3,zh9
+ao zh3,9 zh
+zh iy3,zhE
+iy zh3,E zh
+zh uw3,zho
+uw zh3,o zh
+zh eh3,zhe
+eh zh3,e zh
+zh ih3,zhi
+ih zh3,i zh
+zh uh3,zh6
+uh zh3,6 zh
+zh ah3,zhu
+ah zh3,u zh
+zh ae3,zh@
+ae zh3,@ zh
+zh er3,zh3
+er zh3,3 zh
+zh ey3,zhA
+ey zh3,A zh
+zh ay3,zhI
+ay zh3,I zh
+zh ow3,zhO
+ow zh3,O zh
+zh aw3,zh8
+aw zh3,8 zh
+zh oy3,zhQ
+oy zh3,Q zh
+zh ax3,zhx
+ax zh3,x zh
+dx aa3,dda
+aa dx3,a dd
+dx ao3,dd9
+ao dx3,9 dd
+dx iy3,ddE
+iy dx3,E dd
+dx uw3,ddo
+uw dx3,o dd
+dx eh3,dde
+eh dx3,e dd
+dx ih3,ddi
+ih dx3,i dd
+dx uh3,dd6
+uh dx3,6 dd
+dx ah3,ddu
+ah dx3,u dd
+dx ae3,dd@
+ae dx3,@ dd
+dx er3,dd3
+er dx3,3 dd
+dx ey3,ddA
+ey dx3,A dd
+dx ay3,ddI
+ay dx3,I dd
+dx ow3,ddO
+ow dx3,O dd
+dx aw3,dd8
+aw dx3,8 dd
+dx oy3,ddQ
+oy dx3,Q dd
+dx ax3,ddx
+ax dx3,x dd
+ay er3,I3
+er iy3,3E
+iy ah3,iu
+ah iy3,uE
+ih iy3,iE
+iy ay3,EI
+ay ih3,Ii
+ih uw3,io
+ow ih3,Oi
+ih uw3,io
+uw ah3,ou
+ah ow3,uO
+iy ih3,Ei
+ih ow3,iO
+ow ay3,Oa
+uw ih3,oi
+ih uw3,io
+uw ay3,oI
+ay ey3,IA
+ey ih3,Ai
+ih er3,i3
+er aw3,3a
+aw er3,83
+iy ey3,EA
+ey ay3,AI
+ay ow3,IO
+ow ah3,Ou
+ao aw3,98
+aw ay3,9I
+ay ay3,II
+ay ae3,I@
+eh er3,e3
+er ah3,3u
+ah uw3,uo
+uw aa3,oa
+er ay3,3I
+ay ah3,Iu
+ah eh3,ue
+eh aw3,e9
+b b3,b b
+ch b3,chb
+d b3,d b
+dh b3,dhb
+f b3,f b
+g b3,g b
+hh b3,h b
+jh b3,j b
+k b3,k b
+l b3,lb
+m b3,mb
+n b3,nb
+ng b3,ng b
+p b3,p b
+r b3,rb
+s b3,s b
+sh b3,sh b
+t b3,t b
+th b3,th b
+v b3,v b
+z b3,z b
+zh b3,zh b
+b ch3,b ch
+ch ch3,ch ch
+d ch3,d ch
+dh ch3,dh ch
+f ch3,f ch
+g ch3,g ch
+hh ch3,h ch
+jh ch3,j ch
+k ch3,k ch
+l ch3,lch
+m ch3,mch
+n ch3,nch
+ng ch3,ng ch
+p ch3,p ch
+r ch3,rch
+s ch3,sch
+sh ch3,sh ch
+t ch3,tch
+th ch3,th ch
+v ch3,v ch
+z ch3,z ch
+zh ch3,zh ch
+b d3,bd
+ch d3,chd
+d d3,d d
+dh d3,dhd
+f d3,fd
+g d3,gd
+hh d3,h d
+jh d3,jd
+k d3,kd
+l d3,ld
+m d3,md
+n d3,nd
+ng d3,ng d
+p d3,pd
+r d3,rd
+s d3,sd
+sh d3,shd
+t d3,td
+th d3,thd
+v d3,vd
+z d3,zd
+zh d3,zhd
+b dh3,bdh
+ch dh3,ch dh
+d dh3,ddh
+dh dh3,dh dh
+f dh3,fdh
+g dh3,gdh
+hh dh3,h dh
+jh dh3,j dh
+k dh3,kdh
+l dh3,ldh
+m dh3,mdh
+n dh3,ndh
+ng dh3,ng dh
+p dh3,p dh
+r dh3,rdh
+s dh3,sdh
+sh dh3,sh dh
+t dh3,tdh
+th dh3,th dh
+v dh3,v dh
+z dh3,zdh
+zh dh3,zh dh
+b f3,b f
+ch f3,ch f
+d f3,d f
+dh f3,dh f
+f f3,f f
+g f3,g f
+hh f3,h f
+jh f3,j f
+k f3,k f
+l f3,lf
+m f3,mf
+n f3,nf
+ng f3,ng f
+p f3,p f
+r f3,rf
+s f3,sf
+sh f3,sh f
+t f3,t f
+th f3,th f
+v f3,v f
+z f3,z f
+zh f3,zh f
+b g3,b g
+ch g3,ch g
+d g3,d g
+dh g3,dh g
+f g3,f g
+g g3,g g
+hh g3,h g
+jh g3,j g
+k g3,k g
+l g3,lg
+m g3,mg
+n g3,ng
+ng g3,ng g
+p g3,p g
+r g3,rg
+s g3,s g
+sh g3,sh g
+t g3,t g
+th g3,th g
+v g3,v g
+z g3,z g
+zh g3,zh g
+b hh3,b h
+ch hh3,ch h
+d hh3,d h
+dh hh3,dh h
+f hh3,f h
+g hh3,g h
+hh hh3,h h
+jh hh3,j h
+k hh3,k h
+l hh3,l h
+m hh3,m h
+n hh3,n h
+ng hh3,ng h
+p hh3,p h
+r hh3,r h
+s hh3,s h
+sh hh3,sh h
+t hh3,t h
+th hh3,th h
+v hh3,v h
+z hh3,z h
+zh hh3,zh h
+b jh3,b j
+ch jh3,chj
+d jh3,dj
+dh jh3,dhj
+f jh3,f j
+g jh3,gj
+hh jh3,h j
+jh jh3,j j
+k jh3,k j
+l jh3,lj
+m jh3,mj
+n jh3,nj
+ng jh3,ng j
+p jh3,p j
+r jh3,rj
+s jh3,s j
+sh jh3,sh j
+t jh3,t j
+th jh3,th j
+v jh3,v j
+z jh3,z j
+zh jh3,zh j
+b k3,bk
+ch k3,chk
+d k3,d k
+dh k3,dhk
+f k3,fk
+g k3,g k
+hh k3,h k
+jh k3,j k
+k k3,k k
+l k3,lk
+m k3,mk
+n k3,nk
+ng k3,ng k
+p k3,p k
+r k3,rk
+s k3,sk
+sh k3,shk
+t k3,t k
+th k3,thk
+v k3,v k
+z k3,z k
+zh k3,zh k
+b l3,bl
+ch l3,chl
+d l3,dl
+dh l3,dhl
+f l3,fl
+g l3,gl
+hh l3,h l
+jh l3,jl
+k l3,kl
+l l3,l l
+m l3,ml
+n l3,nl
+ng l3,ng l
+p l3,pl
+r l3,rl
+s l3,sl
+sh l3,shl
+t l3,tl
+th l3,thl
+v l3,vl
+z l3,zl
+zh l3,zhl
+b m3,bm
+ch m3,chm
+d m3,d m
+dh m3,dh m
+f m3,f m
+g m3,g m
+hh m3,h m
+jh m3,j m
+k m3,k m
+l m3,lm
+m m3,m m
+n m3,nm
+ng m3,ng m
+p m3,p m
+r m3,rm
+s m3,sm
+sh m3,sh m
+t m3,t m
+th m3,th m
+v m3,v m
+z m3,zm
+zh m3,zh m
+b n3,bn
+ch n3,ch n
+d n3,d n
+dh n3,dh n
+f n3,f n
+g n3,g n
+hh n3,h n
+jh n3,j n
+k n3,k n
+l n3,ln
+m n3,m n
+n n3,n n
+ng n3,ng n
+p n3,p n
+r n3,rn
+s n3,sn
+sh n3,sh n
+t n3,t n
+th n3,thn
+v n3,v n
+z n3,z n
+zh n3,zh n
+b ng3,b ng
+ch ng3,ch ng
+d ng3,d ng
+dh ng3,dh ng
+f ng3,f ng
+g ng3,g ng
+hh ng3,h ng
+jh ng3,j ng
+k ng3,k ng
+l ng3,l ng
+m ng3,m ng
+n ng3,n ng
+ng ng3,ng ng
+p ng3,p ng
+r ng3,rng
+s ng3,s ng
+sh ng3,sh ng
+t ng3,t ng
+th ng3,th ng
+v ng3,v ng
+z ng3,z ng
+zh ng3,zh ng
+b p3,b p
+ch p3,ch p
+d p3,d p
+dh p3,dh p
+f p3,f p
+g p3,g p
+hh p3,h p
+jh p3,j p
+k p3,k p
+l p3,lp
+m p3,mp
+n p3,np
+ng p3,ng p
+p p3,p p
+r p3,rp
+s p3,s p
+sh p3,sh p
+t p3,t p
+th p3,th p
+v p3,v p
+z p3,z p
+zh p3,zh p
+b r3,br
+ch r3,chr
+d r3,dr
+dh r3,dhr
+f r3,fr
+g r3,gr
+hh r3,h r
+jh r3,j r
+k r3,kr
+l r3,lr
+m r3,mr
+n r3,nr
+ng r3,ng r
+p r3,pr
+r r3,r r
+s r3,sr
+sh r3,shr
+t r3,tr
+th r3,thr
+v r3,vr
+z r3,zr
+zh r3,zhr
+b s3,bs
+ch s3,chs
+d s3,ds
+dh s3,dhs
+f s3,fs
+g s3,gs
+hh s3,h s
+jh s3,js
+k s3,ks
+l s3,ls
+m s3,ms
+n s3,ns
+ng s3,ngs
+p s3,ps
+r s3,rs
+s s3,s s
+sh s3,sh s
+t s3,ts
+th s3,ths
+v s3,vs
+z s3,zs
+zh s3,zhs
+b sh3,bsh
+ch sh3,ch sh
+d sh3,d sh
+dh sh3,dh sh
+f sh3,fsh
+g sh3,g sh
+hh sh3,h sh
+jh sh3,j sh
+k sh3,ksh
+l sh3,lsh
+m sh3,msh
+n sh3,nsh
+ng sh3,ng sh
+p sh3,psh
+r sh3,rsh
+s sh3,s sh
+sh sh3,sh sh
+t sh3,tsh
+th sh3,th sh
+v sh3,v sh
+z sh3,z sh
+zh sh3,zh sh
+b t3,bt
+ch t3,cht
+d t3,dt
+dh t3,dht
+f t3,ft
+g t3,gt
+hh t3,h t
+jh t3,jt
+k t3,kt
+l t3,lt
+m t3,mt
+n t3,nt
+ng t3,ng t
+p t3,pt
+r t3,rt
+s t3,st
+sh t3,sht
+t t3,t t
+th t3,tht
+v t3,vt
+z t3,zt
+zh t3,zht
+b th3,bth
+ch th3,ch th
+d th3,dth
+dh th3,dh th
+f th3,fth
+g th3,gth
+hh th3,h th
+jh th3,j th
+k th3,kth
+l th3,lth
+m th3,mth
+n th3,nth
+ng th3,ng th
+p th3,pth
+r th3,rth
+s th3,sth
+sh th3,sh th
+t th3,tth
+th th3,th th
+v th3,vth
+z th3,zth
+zh th3,zhth
+b v3,bv
+ch v3,chv
+d v3,dv
+dh v3,dhv
+f v3,f v
+g v3,g v
+hh v3,h v
+jh v3,j v
+k v3,k v
+l v3,lv
+m v3,mv
+n v3,nv
+ng v3,ng v
+p v3,p v
+r v3,rv
+s v3,s v
+sh v3,sh v
+t v3,t v
+th v3,th v
+v v3,v v
+z v3,z v
+zh v3,zh v
+b w3,bw
+ch w3,chw
+d w3,dw
+dh w3,dhw
+f w3,fw
+g w3,gw
+hh w3,h w
+jh w3,j w
+k w3,kw
+l w3,lw
+m w3,mw
+n w3,nw
+ng w3,ng w
+p w3,pw
+r w3,rw
+s w3,sw
+sh w3,shw
+t w3,tw
+th w3,thw
+v w3,v w
+z w3,z w
+zh w3,zh w
+b y3,by
+ch y3,chy
+d y3,dy
+dh y3,dhy
+f y3,fy
+g y3,gy
+hh y3,hy
+jh y3,jy
+k y3,ky
+l y3,ly
+m y3,my
+n y3,ny
+ng y3,ng y
+p y3,py
+r y3,ry
+s y3,sy
+sh y3,shy
+t y3,ty
+th y3,thy
+v y3,vy
+z y3,zy
+zh y3,zhy
+b z3,bz
+ch z3,chz
+d z3,dz
+dh z3,dhz
+f z3,fz
+g z3,gz
+hh z3,h z
+jh z3,j z
+k z3,kz
+l z3,lz
+m z3,mz
+n z3,nz
+ng z3,ngz
+p z3,pz
+r z3,rz
+s z3,sz
+sh z3,shz
+t z3,tz
+th z3,thz
+v z3,vz
+z z3,z z
+zh z3,zh z
+b zh3,bzh
+ch zh3,ch zh
+d zh3,dzh
+dh zh3,dh zh
+f zh3,f zh
+g zh3,g zh
+hh zh3,h zh
+jh zh3,j zh
+k zh3,k zh
+l zh3,l zh
+m zh3,m zh
+n zh3,n zh
+ng zh3,ng zh
+p zh3,p zh
+r zh3,r zh
+s zh3,s zh
+sh zh3,sh zh
+t zh3,t zh
+th zh3,th zh
+v zh3,v zh
+z zh3,z zh
+zh zh3,zh zh
+- b3,-b
+b -3,b-
+- ch3,-ch
+ch -3,ch-
+- d3,-d
+d -3,d-
+- dh3,-dh
+dh -3,dh-
+- f3,-f
+f -3,f-
+- g3,-g
+g -3,g-
+- hh3,-h
+hh -3,h-
+- jh3,-j
+jh -3,j-
+- k3,-k
+k -3,k-
+- l3,-l
+l -3,l-
+- m3,-m
+m -3,m-
+- n3,-n
+n -3,n-
+- ng3,-nng
+ng -3,nng-
+- p3,-p
+p -3,p-
+- dx3,-dd
+dx -3,dd-
+- r3,-r
+r -3,r-
+- s3,-s
+s -3,s-
+- sh3,-sh
+sh -3,sh-
+- t3,-t
+t -3,t-
+- th3,-th
+th -3,th-
+- v3,-v
+v -3,v-
+- w3,-w
+w -3,w-
+- y3,-y
+y -3,y-
+- z3,-z
+z -3,z-
+- zh3,-zh
+zh -3,zh-
+- aa4,-a
+aa4,a
+aa -4,a-
+- ao4,-9
+ao4,9
+ao -4,9-
+- iy4,-E
+iy4,E
+iy -4,E-
+- uw4,-o
+uw4,o
+uw -4,o-
+- eh4,-e
+eh4,e
+eh -4,e-
+- ih4,-i
+ih4,i
+ih -4,i-
+- uh4,-6
+uh4,6
+uh -4,6-
+- ah4,-u
+ah4,u
+ah -4,u-
+- ae4,-@
+ae4,@
+ae -4,@-
+- er4,-4
+er4,4
+er -4,4-
+- ey4,-A
+ey4,S
+ey -4,A-
+- ay4,-I
+ay4,I
+ay -4,I-
+- ow4,-O
+ow4,O
+ow -4,O-
+- aw4,-8
+aw4,8
+aw -4,8-
+- oy4,-Q
+oy4,Q
+oy -4,Q-
+- ax4,-x
+ax4,x
+ax -4,x-
+b aa4,ba
+aa b4,a b
+b ao4,b9
+ao b4,9 b
+b iy4,bE
+iy b4,E b
+b uw4,bo
+uw b4,o b
+b eh4,be
+eh b4,e b
+b ih4,bi
+ih b4,i b
+b uh4,b6
+uh b4,6 b
+b ah4,bu
+ah b4,u b
+b ae4,b@
+ae b4,@ b
+b er4,b4
+er b4,4 b
+b ey4,bA
+ey b4,A b
+b ay4,bI
+ay b4,I b
+b ow4,bO
+ow b4,O b
+b aw4,b8
+aw b4,8 b
+b oy4,bQ
+oy b4,Q b
+b ax4,bx
+ax b4,x b
+ch aa4,cha
+aa ch4,a ch
+ch ao4,ch9
+ao ch4,9 ch
+ch iy4,chE
+iy ch4,E ch
+ch uw4,cho
+uw ch4,o ch
+ch eh4,che
+eh ch4,e ch
+ch ih4,chi
+ih ch4,i ch
+ch uh4,ch6
+uh ch4,6 ch
+ch ah4,chu
+ah ch4,u ch
+ch ae4,ch@
+ae ch4,@ ch
+ch er4,ch4
+er ch4,4 ch
+ch ey4,chA
+ey ch4,A ch
+ch ay4,chI
+ay ch4,I ch
+ch ow4,chO
+ow ch4,O ch
+ch aw4,ch8
+aw ch4,8 ch
+ch oy4,chQ
+oy ch4,Q ch
+ch ax4,chx
+ax ch4,x ch
+dh aa4,dha
+aa dh4,a dh
+dh ao4,dh9
+ao dh4,9 dh
+dh iy4,dhE
+iy dh4,E dh
+dh uw4,dho
+uw dh4,o dh
+dh eh4,dhe
+eh dh4,e dh
+dh ih4,dhi
+ih dh4,i dh
+dh uh4,dh6
+uh dh4,6 dh
+dh ah4,dhu
+ah dh4,u dh
+dh ae4,dh@
+ae dh4,@ dh
+dh er4,dh4
+er dh4,4 dh
+dh ey4,dhA
+ey dh4,A dh
+dh ay4,dhI
+ay dh4,I dh
+dh ow4,dhO
+ow dh4,O dh
+dh aw4,dh8
+aw dh4,8 dh
+dh oy4,dhQ
+oy dh4,Q dh
+dh ax4,dhx
+ax dh4,x dh
+d aa4,da
+aa d4,a d
+d ao4,d9
+ao d4,9 d
+d iy4,dE
+iy d4,E d
+d uw4,do
+uw d4,o d
+d eh4,de
+eh d4,e d
+d ih4,di
+ih d4,i d
+d uh4,d6
+uh d4,6 d
+d ah4,du
+ah d4,u d
+d ae4,d@
+ae d4,@ d
+d er4,d4
+er d4,4 d
+d ey4,dA
+ey d4,A d
+d ay4,dI
+ay d4,I d
+d ow4,dO
+ow d4,O d
+d aw4,d8
+aw d4,8 d
+d oy4,dQ
+oy d4,Q d
+d ax4,dx
+ax d4,x d
+f aa4,fa
+aa f4,a f
+f ao4,f9
+ao f4,9 f
+f iy4,fE
+iy f4,E f
+f uw4,fo
+uw f4,o f
+f eh4,fe
+eh f4,e f
+f ih4,fi
+ih f4,i f
+f uh4,f6
+uh f4,6 f
+f ah4,fu
+ah f4,u f
+f ae4,f@
+ae f4,@ f
+f er4,f4
+er f4,4 f
+f ey4,fA
+ey f4,A f
+f ay4,fI
+ay f4,I f
+f ow4,fO
+ow f4,O f
+f aw4,f8
+aw f4,8 f
+f oy4,fQ
+oy f4,Q f
+f ax4,fx
+ax f4,x f
+g aa4,ga
+aa g4,a g
+g ao4,g9
+ao g4,9 g
+g iy4,gE
+iy g4,E g
+g uw4,go
+uw g4,o g
+g eh4,ge
+eh g4,e g
+g ih4,gi
+ih g4,i g
+g uh4,g6
+uh g4,6 g
+g ah4,gu
+ah g4,u g
+g ae4,g@
+ae g4,@ g
+g er4,g4
+er g4,4 g
+g ey4,gA
+ey g4,A g
+g ay4,gI
+ay g4,I g
+g ow4,gO
+ow g4,O g
+g aw4,g8
+aw g4,8 g
+g oy4,gQ
+oy g4,Q g
+g ax4,gx
+ax g4,x g
+hh aa4,ha
+aa hh4,a h
+hh ao4,h9
+ao hh4,9 h
+hh iy4,hhE
+iy hh4,E h
+hh uw4,ho
+uw hh4,o h
+hh eh4,he
+eh hh4,e h
+hh ih4,hi
+ih hh4,i h
+hh uh4,h6
+uh hh4,6 h
+hh ah4,hu
+ah hh4,u h
+hh ae4,h@
+ae hh4,@ h
+hh er4,h4
+er hh4,4 h
+hh ey4,hA
+ey hh4,A h
+hh ay4,hI
+ay hh4,I h
+hh ow4,hO
+ow hh4,O h
+hh aw4,h8
+aw hh4,8 h
+hh oy4,hQ
+oy hh4,Q h
+hh ax4,hx
+ax hh4,x h
+jh aa4,ja
+aa jh4,a j
+jh ao4,j9
+ao jh4,9 j
+jh iy4,jE
+iy jh4,E j
+jh uw4,jo
+uw jh4,o j
+jh eh4,je
+eh jh4,e j
+jh ih4,ji
+ih jh4,i j
+jh uh4,j6
+uh jh4,6 j
+jh ah4,ju
+ah jh4,u j
+jh ae4,j@
+ae jh4,@ j
+jh er4,j4
+er jh4,4 j
+jh ey4,jA
+ey jh4,A j
+jh ay4,jI
+ay jh4,I j
+jh ow4,jO
+ow jh4,O j
+jh aw4,j8
+aw jh4,8 j
+jh oy4,jQ
+oy jh4,Q j
+jh ax4,jx
+ax jh4,x j
+k aa4,ka
+aa k4,a k
+k ao4,k9
+ao k4,9 k
+k iy4,kE
+iy k4,E k
+k uw4,ko
+uw k4,o k
+k eh4,ke
+eh k4,e k
+k ih4,ki
+ih k4,i k
+k uh4,k6
+uh k4,6 k
+k ah4,ku
+ah k4,u k
+k ae4,k@
+ae k4,@ k
+k er4,k4
+er k4,4 k
+k ey4,kA
+ey k4,A k
+k ay4,kI
+ay k4,I k
+k ow4,kO
+ow k4,O k
+k aw4,k8
+aw k4,8 k
+k oy4,kQ
+oy k4,Q k
+k ax4,kx
+ax k4,x k
+l aa4,la
+aa l4,a l
+l ao4,l9
+ao l4,9 l
+l iy4,lE
+iy l4,E l
+l uw4,lo
+uw l4,o l
+l eh4,le
+eh l4,e l
+l ih4,li
+ih l4,i l
+l uh4,l6
+uh l4,6 l
+l ah4,lu
+ah l4,u l
+l ae4,l@
+ae l4,@ l
+l er4,l4
+er l4,4 l
+l ey4,lA
+ey l4,A l
+l ay4,lI
+ay l4,I l
+l ow4,lO
+ow l4,O l
+l aw4,l8
+aw l4,8 l
+l oy4,lQ
+oy l4,Q l
+l ax4,lx
+ax l4,x l
+m aa4,ma
+aa m4,a m
+m ao4,m9
+ao m4,9 m
+m iy4,mE
+iy m4,E m
+m uw4,mo
+uw m4,o m
+m eh4,me
+eh m4,e m
+m ih4,mi
+ih m4,i m
+m uh4,m6
+uh m4,6 m
+m ah4,mu
+ah m4,u m
+m ae4,m@
+ae m4,@ m
+m er4,m4
+er m4,4 m
+m ey4,mA
+ey m4,A m
+m ay4,mI
+ay m4,I m
+m ow4,mO
+ow m4,O m
+m aw4,m8
+aw m4,8 m
+m oy4,mQ
+oy m4,Q m
+m ax4,mx
+ax m4,x m
+n aa4,na
+aa n4,a n
+n ao4,n9
+ao n4,9 n
+n iy4,nE
+iy n4,E n
+n uw4,no
+uw n4,o n
+n eh4,ne
+eh n4,e n
+n ih4,ni
+ih n4,i n
+n uh4,n6
+uh n4,6 n
+n ah4,nu
+ah n4,u n
+n ae4,n@
+ae n4,@ n
+n er4,n4
+er n4,4 n
+n ey4,nA
+ey n4,A n
+n ay4,nI
+ay n4,I n
+n ow4,nO
+ow n4,O n
+n aw4,n8
+aw n4,8 n
+n oy4,nQ
+oy n4,Q n
+n ax4,nx
+ax n4,x n
+ng aa4,na
+aa ng4,a n
+ng ao4,n9
+ao ng4,9 n
+ng iy4,nE
+iy ng4,E n
+ng uw4,no
+uw ng4,o n
+ng eh4,ne
+eh ng4,e n
+ng ih4,ni
+ih ng4,i n
+ng uh4,n6
+uh ng4,6 n
+ng ah4,nu
+ah ng4,u n
+ng ae4,n@
+ae ng4,@ n
+ng er4,n4
+er ng4,4 n
+ng ey4,nA
+ey ng4,A n
+ng ay4,nI
+ay ng4,I n
+ng ow4,nO
+ow ng4,O n
+ng aw4,n8
+aw ng4,8 n
+ng oy4,nQ
+oy ng4,Q n
+ng ax4,nx
+ax ng4,x n
+p aa4,pa
+aa p4,a p
+p ao4,p9
+ao p4,9 p
+p iy4,pE
+iy p4,E p
+p uw4,po
+uw p4,o p
+p eh4,pe
+eh p4,e p
+p ih4,pi
+ih p4,i p
+p uh4,p6
+uh p4,6 p
+p ah4,pu
+ah p4,u p
+p ae4,p@
+ae p4,@ p
+p er4,p4
+er p4,4 p
+p ey4,pA
+ey p4,A p
+p ay4,pI
+ay p4,I p
+p ow4,pO
+ow p4,O p
+p aw4,p8
+aw p4,8 p
+p oy4,pQ
+oy p4,Q p
+p ax4,px
+ax p4,x p
+q aa4,a
+aa q4,a t
+q ao4,9
+ao q4,9 t
+q iy4,E
+iy q4,E t
+q uw4,o
+uw q4,o t
+q eh4,e
+eh q4,e t
+q ih4,i
+ih q4,i t
+q uh4,6
+uh q4,6 t
+q ah4,u
+ah q4,u t
+q ae4,@
+ae q4,@ t
+q er4,4
+er q4,4 t
+q ey4,A
+ey q4,A t
+q ay4,I
+ay q4,I t
+q ow4,O
+ow q4,O t
+q aw4,8
+aw q4,8 t
+q oy4,Q
+oy q4,Q t
+q ax4,x
+ax q4,x t
+r aa4,ra
+aa r4,a r
+r ao4,r9
+ao r4,9 r
+r iy4,rE
+iy r4,E r
+r uw4,ro
+uw r4,o r
+r eh4,re
+eh r4,e r
+r ih4,ri
+ih r4,i r
+r uh4,r6
+uh r4,6 r
+r ah4,ru
+ah r4,u r
+r ae4,r@
+ae r4,@ r
+r er4,r4
+er r4,4 r
+r ey4,rA
+ey r4,A r
+r ay4,rI
+ay r4,I r
+r ow4,rO
+ow r4,O r
+r aw4,r8
+aw r4,8 r
+r oy4,rQ
+oy r4,Q r
+r ax4,rx
+ax r4,x r
+s aa4,sa
+aa s4,a s
+s ao4,s9
+ao s4,9 s
+s iy4,sE
+iy s4,E s
+s uw4,so
+uw s4,o s
+s eh4,se
+eh s4,e s
+s ih4,si
+ih s4,i s
+s uh4,s6
+uh s4,6 s
+s ah4,su
+ah s4,u s
+s ae4,s@
+ae s4,@ s
+s es4,s4
+es s4,4 s
+s ey4,sA
+ey s4,A s
+s ay4,sI
+ay s4,I s
+s ow4,sO
+ow s4,O s
+s aw4,s8
+aw s4,8 s
+s oy4,sQ
+oy s4,Q s
+s ax4,sx
+ax s4,x s
+sh aa4,sha
+aa sh4,a sh
+sh ao4,sh9
+ao sh4,9 sh
+sh iy4,shE
+iy sh4,E sh
+sh uw4,sho
+uw sh4,o sh
+sh eh4,she
+eh sh4,e sh
+sh ih4,shi
+ih sh4,i sh
+sh uh4,sh6
+uh sh4,6 sh
+sh ah4,shu
+ah sh4,u sh
+sh ae4,sh@
+ae sh4,@ sh
+sh er4,sh4
+er sh4,4 sh
+sh ey4,shA
+ey sh4,A sh
+sh ay4,shI
+ay sh4,I sh
+sh ow4,shO
+ow sh4,O sh
+sh aw4,sh8
+aw sh4,8 sh
+sh oy4,shQ
+oy sh4,Q sh
+sh ax4,shx
+ax sh4,x sh
+t aa4,ta
+aa t4,a t
+t ao4,t9
+ao t4,9 t
+t iy4,tE
+iy t4,E t
+t uw4,to
+uw t4,o t
+t eh4,te
+eh t4,e t
+t ih4,ti
+ih t4,i t
+t uh4,t6
+uh t4,6 t
+t ah4,tu
+ah t4,u t
+t ae4,t@
+ae t4,@ t
+t er4,t4
+er t4,4 t
+t ey4,tA
+ey t4,A t
+t ay4,tI
+ay t4,I t
+t ow4,tO
+ow t4,O t
+t aw4,t8
+aw t4,8 t
+t oy4,tQ
+oy t4,Q t
+t ax4,tx
+ax t4,x t
+th aa4,tha
+aa th4,a th
+th ao4,th9
+ao th4,9 th
+th iy4,thE
+iy th4,E th
+th uw4,tho
+uw th4,o th
+th eh4,the
+eh th4,e th
+th ih4,thi
+ih th4,i th
+th uh4,th6
+uh th4,6 th
+th ah4,thu
+ah th4,u th
+th ae4,th@
+ae th4,@ th
+th er4,th4
+er th4,4 th
+th ey4,thA
+ey th4,A th
+th ay4,thI
+ay th4,I th
+th ow4,thO
+ow th4,O th
+th aw4,th8
+aw th4,8 th
+th oy4,thQ
+oy th4,Q th
+th ax4,thx
+ax th4,x th
+v aa4,va
+aa v4,a v
+v ao4,v9
+ao v4,9 v
+v iy4,vE
+iy v4,E v
+v uw4,vo
+uw v4,o v
+v eh4,ve
+eh v4,e v
+v ih4,vi
+ih v4,i v
+v uh4,v6
+uh v4,6 v
+v ah4,vu
+ah v4,u v
+v ae4,v@
+ae v4,@ v
+v er4,v4
+er v4,4 v
+v ey4,vA
+ey v4,A v
+v ay4,vI
+ay v4,I v
+v ow4,vO
+ow v4,O v
+v aw4,v8
+aw v4,8 v
+v oy4,vQ
+oy v4,Q v
+v ax4,vx
+ax v4,x v
+w aa4,wa
+aa w4,a w
+w ao4,w9
+ao w4,9 w
+w iy4,wE
+iy w4,E w
+w uw4,wo
+uw w4,o w
+w eh4,we
+eh w4,e w
+w ih4,wi
+ih w4,i w
+w uh4,w6
+uh w4,6 w
+w ah4,wu
+ah w4,u w
+w ae4,w@
+ae w4,@ w
+w er4,w4
+er w4,4 w
+w ey4,wA
+ey w4,A w
+w ay4,wI
+ay w4,I w
+w ow4,wO
+ow w4,O w
+w aw4,w8
+aw w4,8 w
+w oy4,wQ
+oy w4,Q w
+w ax4,wx
+ax w4,x w
+y aa4,ya
+aa y4,a y
+y ao4,y9
+ao y4,9 y
+y iy4,yE
+iy y4,E y
+y uw4,yo
+uw y4,o y
+y eh4,ye
+eh y4,e y
+y ih4,yi
+ih y4,i y
+y uh4,y6
+uh y4,6 y
+y ah4,yu
+ah y4,u y
+y ae4,y@
+ae y4,@ y
+y er4,y4
+er y4,4 y
+y ey4,yA
+ey y4,A y
+y ay4,yI
+ay y4,I y
+y ow4,yO
+ow y4,O y
+y aw4,y8
+aw y4,8 y
+y oy4,yQ
+oy y4,Q y
+y ax4,yx
+ax y4,x y
+z aa4,za
+aa z4,a z
+z ao4,z9
+ao z4,9 z
+z iy4,zE
+iy z4,E z
+z uw4,zo
+uw z4,o z
+z eh4,ze
+eh z4,e z
+z ih4,zi
+ih z4,i z
+z uh4,z6
+uh z4,6 z
+z ah4,zu
+ah z4,u z
+z ae4,z@
+ae z4,@ z
+z er4,z4
+er z4,4 z
+z ey4,zA
+ey z4,A z
+z ay4,zI
+ay z4,I z
+z ow4,zO
+ow z4,O z
+z aw4,z8
+aw z4,8 z
+z oy4,zQ
+oy z4,Q z
+z ax4,zx
+ax z4,x z
+zh aa4,zha
+aa zh4,a zh
+zh ao4,zh9
+ao zh4,9 zh
+zh iy4,zhE
+iy zh4,E zh
+zh uw4,zho
+uw zh4,o zh
+zh eh4,zhe
+eh zh4,e zh
+zh ih4,zhi
+ih zh4,i zh
+zh uh4,zh6
+uh zh4,6 zh
+zh ah4,zhu
+ah zh4,u zh
+zh ae4,zh@
+ae zh4,@ zh
+zh er4,zh4
+er zh4,4 zh
+zh ey4,zhA
+ey zh4,A zh
+zh ay4,zhI
+ay zh4,I zh
+zh ow4,zhO
+ow zh4,O zh
+zh aw4,zh8
+aw zh4,8 zh
+zh oy4,zhQ
+oy zh4,Q zh
+zh ax4,zhx
+ax zh4,x zh
+dx aa4,dda
+aa dx4,a dd
+dx ao4,dd9
+ao dx4,9 dd
+dx iy4,ddE
+iy dx4,E dd
+dx uw4,ddo
+uw dx4,o dd
+dx eh4,dde
+eh dx4,e dd
+dx ih4,ddi
+ih dx4,i dd
+dx uh4,dd6
+uh dx4,6 dd
+dx ah4,ddu
+ah dx4,u dd
+dx ae4,dd@
+ae dx4,@ dd
+dx er4,dd4
+er dx4,4 dd
+dx ey4,ddA
+ey dx4,A dd
+dx ay4,ddI
+ay dx4,I dd
+dx ow4,ddO
+ow dx4,O dd
+dx aw4,dd8
+aw dx4,8 dd
+dx oy4,ddQ
+oy dx4,Q dd
+dx ax4,ddx
+ax dx4,x dd
+ay er4,I4
+er iy4,4E
+iy ah4,iu
+ah iy4,uE
+ih iy4,iE
+iy ay4,EI
+ay ih4,Ii
+ih uw4,io
+ow ih4,Oi
+ih uw4,io
+uw ah4,ou
+ah ow4,uO
+iy ih4,Ei
+ih ow4,iO
+ow ay4,Oa
+uw ih4,oi
+ih uw4,io
+uw ay4,oI
+ay ey4,IA
+ey ih4,Ai
+ih er4,i4
+er aw4,4a
+aw er4,84
+iy ey4,EA
+ey ay4,AI
+ay ow4,IO
+ow ah4,Ou
+ao aw4,98
+aw ay4,9I
+ay ay4,II
+ay ae4,I@
+eh er4,e4
+er ah4,4u
+ah uw4,uo
+uw aa4,oa
+er ay4,4I
+ay ah4,Iu
+ah eh4,ue
+eh aw4,e9
+b b4,b b
+ch b4,chb
+d b4,d b
+dh b4,dhb
+f b4,f b
+g b4,g b
+hh b4,h b
+jh b4,j b
+k b4,k b
+l b4,lb
+m b4,mb
+n b4,nb
+ng b4,ng b
+p b4,p b
+r b4,rb
+s b4,s b
+sh b4,sh b
+t b4,t b
+th b4,th b
+v b4,v b
+z b4,z b
+zh b4,zh b
+b ch4,b ch
+ch ch4,ch ch
+d ch4,d ch
+dh ch4,dh ch
+f ch4,f ch
+g ch4,g ch
+hh ch4,h ch
+jh ch4,j ch
+k ch4,k ch
+l ch4,lch
+m ch4,mch
+n ch4,nch
+ng ch4,ng ch
+p ch4,p ch
+r ch4,rch
+s ch4,sch
+sh ch4,sh ch
+t ch4,tch
+th ch4,th ch
+v ch4,v ch
+z ch4,z ch
+zh ch4,zh ch
+b d4,bd
+ch d4,chd
+d d4,d d
+dh d4,dhd
+f d4,fd
+g d4,gd
+hh d4,h d
+jh d4,jd
+k d4,kd
+l d4,ld
+m d4,md
+n d4,nd
+ng d4,ng d
+p d4,pd
+r d4,rd
+s d4,sd
+sh d4,shd
+t d4,td
+th d4,thd
+v d4,vd
+z d4,zd
+zh d4,zhd
+b dh4,bdh
+ch dh4,ch dh
+d dh4,ddh
+dh dh4,dh dh
+f dh4,fdh
+g dh4,gdh
+hh dh4,h dh
+jh dh4,j dh
+k dh4,kdh
+l dh4,ldh
+m dh4,mdh
+n dh4,ndh
+ng dh4,ng dh
+p dh4,p dh
+r dh4,rdh
+s dh4,sdh
+sh dh4,sh dh
+t dh4,tdh
+th dh4,th dh
+v dh4,v dh
+z dh4,zdh
+zh dh4,zh dh
+b f4,b f
+ch f4,ch f
+d f4,d f
+dh f4,dh f
+f f4,f f
+g f4,g f
+hh f4,h f
+jh f4,j f
+k f4,k f
+l f4,lf
+m f4,mf
+n f4,nf
+ng f4,ng f
+p f4,p f
+r f4,rf
+s f4,sf
+sh f4,sh f
+t f4,t f
+th f4,th f
+v f4,v f
+z f4,z f
+zh f4,zh f
+b g4,b g
+ch g4,ch g
+d g4,d g
+dh g4,dh g
+f g4,f g
+g g4,g g
+hh g4,h g
+jh g4,j g
+k g4,k g
+l g4,lg
+m g4,mg
+n g4,ng
+ng g4,ng g
+p g4,p g
+r g4,rg
+s g4,s g
+sh g4,sh g
+t g4,t g
+th g4,th g
+v g4,v g
+z g4,z g
+zh g4,zh g
+b hh4,b h
+ch hh4,ch h
+d hh4,d h
+dh hh4,dh h
+f hh4,f h
+g hh4,g h
+hh hh4,h h
+jh hh4,j h
+k hh4,k h
+l hh4,l h
+m hh4,m h
+n hh4,n h
+ng hh4,ng h
+p hh4,p h
+r hh4,r h
+s hh4,s h
+sh hh4,sh h
+t hh4,t h
+th hh4,th h
+v hh4,v h
+z hh4,z h
+zh hh4,zh h
+b jh4,b j
+ch jh4,chj
+d jh4,dj
+dh jh4,dhj
+f jh4,f j
+g jh4,gj
+hh jh4,h j
+jh jh4,j j
+k jh4,k j
+l jh4,lj
+m jh4,mj
+n jh4,nj
+ng jh4,ng j
+p jh4,p j
+r jh4,rj
+s jh4,s j
+sh jh4,sh j
+t jh4,t j
+th jh4,th j
+v jh4,v j
+z jh4,z j
+zh jh4,zh j
+b k4,bk
+ch k4,chk
+d k4,d k
+dh k4,dhk
+f k4,fk
+g k4,g k
+hh k4,h k
+jh k4,j k
+k k4,k k
+l k4,lk
+m k4,mk
+n k4,nk
+ng k4,ng k
+p k4,p k
+r k4,rk
+s k4,sk
+sh k4,shk
+t k4,t k
+th k4,thk
+v k4,v k
+z k4,z k
+zh k4,zh k
+b l4,bl
+ch l4,chl
+d l4,dl
+dh l4,dhl
+f l4,fl
+g l4,gl
+hh l4,h l
+jh l4,jl
+k l4,kl
+l l4,l l
+m l4,ml
+n l4,nl
+ng l4,ng l
+p l4,pl
+r l4,rl
+s l4,sl
+sh l4,shl
+t l4,tl
+th l4,thl
+v l4,vl
+z l4,zl
+zh l4,zhl
+b m4,bm
+ch m4,chm
+d m4,d m
+dh m4,dh m
+f m4,f m
+g m4,g m
+hh m4,h m
+jh m4,j m
+k m4,k m
+l m4,lm
+m m4,m m
+n m4,nm
+ng m4,ng m
+p m4,p m
+r m4,rm
+s m4,sm
+sh m4,sh m
+t m4,t m
+th m4,th m
+v m4,v m
+z m4,zm
+zh m4,zh m
+b n4,bn
+ch n4,ch n
+d n4,d n
+dh n4,dh n
+f n4,f n
+g n4,g n
+hh n4,h n
+jh n4,j n
+k n4,k n
+l n4,ln
+m n4,m n
+n n4,n n
+ng n4,ng n
+p n4,p n
+r n4,rn
+s n4,sn
+sh n4,sh n
+t n4,t n
+th n4,thn
+v n4,v n
+z n4,z n
+zh n4,zh n
+b ng4,b ng
+ch ng4,ch ng
+d ng4,d ng
+dh ng4,dh ng
+f ng4,f ng
+g ng4,g ng
+hh ng4,h ng
+jh ng4,j ng
+k ng4,k ng
+l ng4,l ng
+m ng4,m ng
+n ng4,n ng
+ng ng4,ng ng
+p ng4,p ng
+r ng4,rng
+s ng4,s ng
+sh ng4,sh ng
+t ng4,t ng
+th ng4,th ng
+v ng4,v ng
+z ng4,z ng
+zh ng4,zh ng
+b p4,b p
+ch p4,ch p
+d p4,d p
+dh p4,dh p
+f p4,f p
+g p4,g p
+hh p4,h p
+jh p4,j p
+k p4,k p
+l p4,lp
+m p4,mp
+n p4,np
+ng p4,ng p
+p p4,p p
+r p4,rp
+s p4,s p
+sh p4,sh p
+t p4,t p
+th p4,th p
+v p4,v p
+z p4,z p
+zh p4,zh p
+b r4,br
+ch r4,chr
+d r4,dr
+dh r4,dhr
+f r4,fr
+g r4,gr
+hh r4,h r
+jh r4,j r
+k r4,kr
+l r4,lr
+m r4,mr
+n r4,nr
+ng r4,ng r
+p r4,pr
+r r4,r r
+s r4,sr
+sh r4,shr
+t r4,tr
+th r4,thr
+v r4,vr
+z r4,zr
+zh r4,zhr
+b s4,bs
+ch s4,chs
+d s4,ds
+dh s4,dhs
+f s4,fs
+g s4,gs
+hh s4,h s
+jh s4,js
+k s4,ks
+l s4,ls
+m s4,ms
+n s4,ns
+ng s4,ngs
+p s4,ps
+r s4,rs
+s s4,s s
+sh s4,sh s
+t s4,ts
+th s4,ths
+v s4,vs
+z s4,zs
+zh s4,zhs
+b sh4,bsh
+ch sh4,ch sh
+d sh4,d sh
+dh sh4,dh sh
+f sh4,fsh
+g sh4,g sh
+hh sh4,h sh
+jh sh4,j sh
+k sh4,ksh
+l sh4,lsh
+m sh4,msh
+n sh4,nsh
+ng sh4,ng sh
+p sh4,psh
+r sh4,rsh
+s sh4,s sh
+sh sh4,sh sh
+t sh4,tsh
+th sh4,th sh
+v sh4,v sh
+z sh4,z sh
+zh sh4,zh sh
+b t4,bt
+ch t4,cht
+d t4,dt
+dh t4,dht
+f t4,ft
+g t4,gt
+hh t4,h t
+jh t4,jt
+k t4,kt
+l t4,lt
+m t4,mt
+n t4,nt
+ng t4,ng t
+p t4,pt
+r t4,rt
+s t4,st
+sh t4,sht
+t t4,t t
+th t4,tht
+v t4,vt
+z t4,zt
+zh t4,zht
+b th4,bth
+ch th4,ch th
+d th4,dth
+dh th4,dh th
+f th4,fth
+g th4,gth
+hh th4,h th
+jh th4,j th
+k th4,kth
+l th4,lth
+m th4,mth
+n th4,nth
+ng th4,ng th
+p th4,pth
+r th4,rth
+s th4,sth
+sh th4,sh th
+t th4,tth
+th th4,th th
+v th4,vth
+z th4,zth
+zh th4,zhth
+b v4,bv
+ch v4,chv
+d v4,dv
+dh v4,dhv
+f v4,f v
+g v4,g v
+hh v4,h v
+jh v4,j v
+k v4,k v
+l v4,lv
+m v4,mv
+n v4,nv
+ng v4,ng v
+p v4,p v
+r v4,rv
+s v4,s v
+sh v4,sh v
+t v4,t v
+th v4,th v
+v v4,v v
+z v4,z v
+zh v4,zh v
+b w4,bw
+ch w4,chw
+d w4,dw
+dh w4,dhw
+f w4,fw
+g w4,gw
+hh w4,h w
+jh w4,j w
+k w4,kw
+l w4,lw
+m w4,mw
+n w4,nw
+ng w4,ng w
+p w4,pw
+r w4,rw
+s w4,sw
+sh w4,shw
+t w4,tw
+th w4,thw
+v w4,v w
+z w4,z w
+zh w4,zh w
+b y4,by
+ch y4,chy
+d y4,dy
+dh y4,dhy
+f y4,fy
+g y4,gy
+hh y4,hy
+jh y4,jy
+k y4,ky
+l y4,ly
+m y4,my
+n y4,ny
+ng y4,ng y
+p y4,py
+r y4,ry
+s y4,sy
+sh y4,shy
+t y4,ty
+th y4,thy
+v y4,vy
+z y4,zy
+zh y4,zhy
+b z4,bz
+ch z4,chz
+d z4,dz
+dh z4,dhz
+f z4,fz
+g z4,gz
+hh z4,h z
+jh z4,j z
+k z4,kz
+l z4,lz
+m z4,mz
+n z4,nz
+ng z4,ngz
+p z4,pz
+r z4,rz
+s z4,sz
+sh z4,shz
+t z4,tz
+th z4,thz
+v z4,vz
+z z4,z z
+zh z4,zh z
+b zh4,bzh
+ch zh4,ch zh
+d zh4,dzh
+dh zh4,dh zh
+f zh4,f zh
+g zh4,g zh
+hh zh4,h zh
+jh zh4,j zh
+k zh4,k zh
+l zh4,l zh
+m zh4,m zh
+n zh4,n zh
+ng zh4,ng zh
+p zh4,p zh
+r zh4,r zh
+s zh4,s zh
+sh zh4,sh zh
+t zh4,t zh
+th zh4,th zh
+v zh4,v zh
+z zh4,z zh
+zh zh4,zh zh
+- b4,-b
+b -4,b-
+- ch4,-ch
+ch -4,ch-
+- d4,-d
+d -4,d-
+- dh4,-dh
+dh -4,dh-
+- f4,-f
+f -4,f-
+- g4,-g
+g -4,g-
+- hh4,-h
+hh -4,h-
+- jh4,-j
+jh -4,j-
+- k4,-k
+k -4,k-
+- l4,-l
+l -4,l-
+- m4,-m
+m -4,m-
+- n4,-n
+n -4,n-
+- ng4,-nng
+ng -4,nng-
+- p4,-p
+p -4,p-
+- dx4,-dd
+dx -4,dd-
+- r4,-r
+r -4,r-
+- s4,-s
+s -4,s-
+- sh4,-sh
+sh -4,sh-
+- t4,-t
+t -4,t-
+- th4,-th
+th -4,th-
+- v4,-v
+v -4,v-
+- w4,-w
+w -4,w-
+- y4,-y
+y -4,y-
+- z4,-z
+z -4,z-
+- zh4,-zh
+zh -4,zh-
+- aa5,-a
+aa5,a
+aa -5,a-
+- ao5,-9
+ao5,9
+ao -5,9-
+- iy5,-E
+iy5,E
+iy -5,E-
+- uw5,-o
+uw5,o
+uw -5,o-
+- eh5,-e
+eh5,e
+eh -5,e-
+- ih5,-i
+ih5,i
+ih -5,i-
+- uh5,-6
+uh5,6
+uh -5,6-
+- ah5,-u
+ah5,u
+ah -5,u-
+- ae5,-@
+ae5,@
+ae -5,@-
+- er5,-5
+er5,5
+er -5,5-
+- ey5,-A
+ey5,S
+ey -5,A-
+- ay5,-I
+ay5,I
+ay -5,I-
+- ow5,-O
+ow5,O
+ow -5,O-
+- aw5,-8
+aw5,8
+aw -5,8-
+- oy5,-Q
+oy5,Q
+oy -5,Q-
+- ax5,-x
+ax5,x
+ax -5,x-
+b aa5,ba
+aa b5,a b
+b ao5,b9
+ao b5,9 b
+b iy5,bE
+iy b5,E b
+b uw5,bo
+uw b5,o b
+b eh5,be
+eh b5,e b
+b ih5,bi
+ih b5,i b
+b uh5,b6
+uh b5,6 b
+b ah5,bu
+ah b5,u b
+b ae5,b@
+ae b5,@ b
+b er5,b5
+er b5,5 b
+b ey5,bA
+ey b5,A b
+b ay5,bI
+ay b5,I b
+b ow5,bO
+ow b5,O b
+b aw5,b8
+aw b5,8 b
+b oy5,bQ
+oy b5,Q b
+b ax5,bx
+ax b5,x b
+ch aa5,cha
+aa ch5,a ch
+ch ao5,ch9
+ao ch5,9 ch
+ch iy5,chE
+iy ch5,E ch
+ch uw5,cho
+uw ch5,o ch
+ch eh5,che
+eh ch5,e ch
+ch ih5,chi
+ih ch5,i ch
+ch uh5,ch6
+uh ch5,6 ch
+ch ah5,chu
+ah ch5,u ch
+ch ae5,ch@
+ae ch5,@ ch
+ch er5,ch5
+er ch5,5 ch
+ch ey5,chA
+ey ch5,A ch
+ch ay5,chI
+ay ch5,I ch
+ch ow5,chO
+ow ch5,O ch
+ch aw5,ch8
+aw ch5,8 ch
+ch oy5,chQ
+oy ch5,Q ch
+ch ax5,chx
+ax ch5,x ch
+dh aa5,dha
+aa dh5,a dh
+dh ao5,dh9
+ao dh5,9 dh
+dh iy5,dhE
+iy dh5,E dh
+dh uw5,dho
+uw dh5,o dh
+dh eh5,dhe
+eh dh5,e dh
+dh ih5,dhi
+ih dh5,i dh
+dh uh5,dh6
+uh dh5,6 dh
+dh ah5,dhu
+ah dh5,u dh
+dh ae5,dh@
+ae dh5,@ dh
+dh er5,dh5
+er dh5,5 dh
+dh ey5,dhA
+ey dh5,A dh
+dh ay5,dhI
+ay dh5,I dh
+dh ow5,dhO
+ow dh5,O dh
+dh aw5,dh8
+aw dh5,8 dh
+dh oy5,dhQ
+oy dh5,Q dh
+dh ax5,dhx
+ax dh5,x dh
+d aa5,da
+aa d5,a d
+d ao5,d9
+ao d5,9 d
+d iy5,dE
+iy d5,E d
+d uw5,do
+uw d5,o d
+d eh5,de
+eh d5,e d
+d ih5,di
+ih d5,i d
+d uh5,d6
+uh d5,6 d
+d ah5,du
+ah d5,u d
+d ae5,d@
+ae d5,@ d
+d er5,d5
+er d5,5 d
+d ey5,dA
+ey d5,A d
+d ay5,dI
+ay d5,I d
+d ow5,dO
+ow d5,O d
+d aw5,d8
+aw d5,8 d
+d oy5,dQ
+oy d5,Q d
+d ax5,dx
+ax d5,x d
+f aa5,fa
+aa f5,a f
+f ao5,f9
+ao f5,9 f
+f iy5,fE
+iy f5,E f
+f uw5,fo
+uw f5,o f
+f eh5,fe
+eh f5,e f
+f ih5,fi
+ih f5,i f
+f uh5,f6
+uh f5,6 f
+f ah5,fu
+ah f5,u f
+f ae5,f@
+ae f5,@ f
+f er5,f5
+er f5,5 f
+f ey5,fA
+ey f5,A f
+f ay5,fI
+ay f5,I f
+f ow5,fO
+ow f5,O f
+f aw5,f8
+aw f5,8 f
+f oy5,fQ
+oy f5,Q f
+f ax5,fx
+ax f5,x f
+g aa5,ga
+aa g5,a g
+g ao5,g9
+ao g5,9 g
+g iy5,gE
+iy g5,E g
+g uw5,go
+uw g5,o g
+g eh5,ge
+eh g5,e g
+g ih5,gi
+ih g5,i g
+g uh5,g6
+uh g5,6 g
+g ah5,gu
+ah g5,u g
+g ae5,g@
+ae g5,@ g
+g er5,g5
+er g5,5 g
+g ey5,gA
+ey g5,A g
+g ay5,gI
+ay g5,I g
+g ow5,gO
+ow g5,O g
+g aw5,g8
+aw g5,8 g
+g oy5,gQ
+oy g5,Q g
+g ax5,gx
+ax g5,x g
+hh aa5,ha
+aa hh5,a h
+hh ao5,h9
+ao hh5,9 h
+hh iy5,hhE
+iy hh5,E h
+hh uw5,ho
+uw hh5,o h
+hh eh5,he
+eh hh5,e h
+hh ih5,hi
+ih hh5,i h
+hh uh5,h6
+uh hh5,6 h
+hh ah5,hu
+ah hh5,u h
+hh ae5,h@
+ae hh5,@ h
+hh er5,h5
+er hh5,5 h
+hh ey5,hA
+ey hh5,A h
+hh ay5,hI
+ay hh5,I h
+hh ow5,hO
+ow hh5,O h
+hh aw5,h8
+aw hh5,8 h
+hh oy5,hQ
+oy hh5,Q h
+hh ax5,hx
+ax hh5,x h
+jh aa5,ja
+aa jh5,a j
+jh ao5,j9
+ao jh5,9 j
+jh iy5,jE
+iy jh5,E j
+jh uw5,jo
+uw jh5,o j
+jh eh5,je
+eh jh5,e j
+jh ih5,ji
+ih jh5,i j
+jh uh5,j6
+uh jh5,6 j
+jh ah5,ju
+ah jh5,u j
+jh ae5,j@
+ae jh5,@ j
+jh er5,j5
+er jh5,5 j
+jh ey5,jA
+ey jh5,A j
+jh ay5,jI
+ay jh5,I j
+jh ow5,jO
+ow jh5,O j
+jh aw5,j8
+aw jh5,8 j
+jh oy5,jQ
+oy jh5,Q j
+jh ax5,jx
+ax jh5,x j
+k aa5,ka
+aa k5,a k
+k ao5,k9
+ao k5,9 k
+k iy5,kE
+iy k5,E k
+k uw5,ko
+uw k5,o k
+k eh5,ke
+eh k5,e k
+k ih5,ki
+ih k5,i k
+k uh5,k6
+uh k5,6 k
+k ah5,ku
+ah k5,u k
+k ae5,k@
+ae k5,@ k
+k er5,k5
+er k5,5 k
+k ey5,kA
+ey k5,A k
+k ay5,kI
+ay k5,I k
+k ow5,kO
+ow k5,O k
+k aw5,k8
+aw k5,8 k
+k oy5,kQ
+oy k5,Q k
+k ax5,kx
+ax k5,x k
+l aa5,la
+aa l5,a l
+l ao5,l9
+ao l5,9 l
+l iy5,lE
+iy l5,E l
+l uw5,lo
+uw l5,o l
+l eh5,le
+eh l5,e l
+l ih5,li
+ih l5,i l
+l uh5,l6
+uh l5,6 l
+l ah5,lu
+ah l5,u l
+l ae5,l@
+ae l5,@ l
+l er5,l5
+er l5,5 l
+l ey5,lA
+ey l5,A l
+l ay5,lI
+ay l5,I l
+l ow5,lO
+ow l5,O l
+l aw5,l8
+aw l5,8 l
+l oy5,lQ
+oy l5,Q l
+l ax5,lx
+ax l5,x l
+m aa5,ma
+aa m5,a m
+m ao5,m9
+ao m5,9 m
+m iy5,mE
+iy m5,E m
+m uw5,mo
+uw m5,o m
+m eh5,me
+eh m5,e m
+m ih5,mi
+ih m5,i m
+m uh5,m6
+uh m5,6 m
+m ah5,mu
+ah m5,u m
+m ae5,m@
+ae m5,@ m
+m er5,m5
+er m5,5 m
+m ey5,mA
+ey m5,A m
+m ay5,mI
+ay m5,I m
+m ow5,mO
+ow m5,O m
+m aw5,m8
+aw m5,8 m
+m oy5,mQ
+oy m5,Q m
+m ax5,mx
+ax m5,x m
+n aa5,na
+aa n5,a n
+n ao5,n9
+ao n5,9 n
+n iy5,nE
+iy n5,E n
+n uw5,no
+uw n5,o n
+n eh5,ne
+eh n5,e n
+n ih5,ni
+ih n5,i n
+n uh5,n6
+uh n5,6 n
+n ah5,nu
+ah n5,u n
+n ae5,n@
+ae n5,@ n
+n er5,n5
+er n5,5 n
+n ey5,nA
+ey n5,A n
+n ay5,nI
+ay n5,I n
+n ow5,nO
+ow n5,O n
+n aw5,n8
+aw n5,8 n
+n oy5,nQ
+oy n5,Q n
+n ax5,nx
+ax n5,x n
+ng aa5,na
+aa ng5,a n
+ng ao5,n9
+ao ng5,9 n
+ng iy5,nE
+iy ng5,E n
+ng uw5,no
+uw ng5,o n
+ng eh5,ne
+eh ng5,e n
+ng ih5,ni
+ih ng5,i n
+ng uh5,n6
+uh ng5,6 n
+ng ah5,nu
+ah ng5,u n
+ng ae5,n@
+ae ng5,@ n
+ng er5,n5
+er ng5,5 n
+ng ey5,nA
+ey ng5,A n
+ng ay5,nI
+ay ng5,I n
+ng ow5,nO
+ow ng5,O n
+ng aw5,n8
+aw ng5,8 n
+ng oy5,nQ
+oy ng5,Q n
+ng ax5,nx
+ax ng5,x n
+p aa5,pa
+aa p5,a p
+p ao5,p9
+ao p5,9 p
+p iy5,pE
+iy p5,E p
+p uw5,po
+uw p5,o p
+p eh5,pe
+eh p5,e p
+p ih5,pi
+ih p5,i p
+p uh5,p6
+uh p5,6 p
+p ah5,pu
+ah p5,u p
+p ae5,p@
+ae p5,@ p
+p er5,p5
+er p5,5 p
+p ey5,pA
+ey p5,A p
+p ay5,pI
+ay p5,I p
+p ow5,pO
+ow p5,O p
+p aw5,p8
+aw p5,8 p
+p oy5,pQ
+oy p5,Q p
+p ax5,px
+ax p5,x p
+q aa5,a
+aa q5,a t
+q ao5,9
+ao q5,9 t
+q iy5,E
+iy q5,E t
+q uw5,o
+uw q5,o t
+q eh5,e
+eh q5,e t
+q ih5,i
+ih q5,i t
+q uh5,6
+uh q5,6 t
+q ah5,u
+ah q5,u t
+q ae5,@
+ae q5,@ t
+q er5,5
+er q5,5 t
+q ey5,A
+ey q5,A t
+q ay5,I
+ay q5,I t
+q ow5,O
+ow q5,O t
+q aw5,8
+aw q5,8 t
+q oy5,Q
+oy q5,Q t
+q ax5,x
+ax q5,x t
+r aa5,ra
+aa r5,a r
+r ao5,r9
+ao r5,9 r
+r iy5,rE
+iy r5,E r
+r uw5,ro
+uw r5,o r
+r eh5,re
+eh r5,e r
+r ih5,ri
+ih r5,i r
+r uh5,r6
+uh r5,6 r
+r ah5,ru
+ah r5,u r
+r ae5,r@
+ae r5,@ r
+r er5,r5
+er r5,5 r
+r ey5,rA
+ey r5,A r
+r ay5,rI
+ay r5,I r
+r ow5,rO
+ow r5,O r
+r aw5,r8
+aw r5,8 r
+r oy5,rQ
+oy r5,Q r
+r ax5,rx
+ax r5,x r
+s aa5,sa
+aa s5,a s
+s ao5,s9
+ao s5,9 s
+s iy5,sE
+iy s5,E s
+s uw5,so
+uw s5,o s
+s eh5,se
+eh s5,e s
+s ih5,si
+ih s5,i s
+s uh5,s6
+uh s5,6 s
+s ah5,su
+ah s5,u s
+s ae5,s@
+ae s5,@ s
+s es5,s5
+es s5,5 s
+s ey5,sA
+ey s5,A s
+s ay5,sI
+ay s5,I s
+s ow5,sO
+ow s5,O s
+s aw5,s8
+aw s5,8 s
+s oy5,sQ
+oy s5,Q s
+s ax5,sx
+ax s5,x s
+sh aa5,sha
+aa sh5,a sh
+sh ao5,sh9
+ao sh5,9 sh
+sh iy5,shE
+iy sh5,E sh
+sh uw5,sho
+uw sh5,o sh
+sh eh5,she
+eh sh5,e sh
+sh ih5,shi
+ih sh5,i sh
+sh uh5,sh6
+uh sh5,6 sh
+sh ah5,shu
+ah sh5,u sh
+sh ae5,sh@
+ae sh5,@ sh
+sh er5,sh5
+er sh5,5 sh
+sh ey5,shA
+ey sh5,A sh
+sh ay5,shI
+ay sh5,I sh
+sh ow5,shO
+ow sh5,O sh
+sh aw5,sh8
+aw sh5,8 sh
+sh oy5,shQ
+oy sh5,Q sh
+sh ax5,shx
+ax sh5,x sh
+t aa5,ta
+aa t5,a t
+t ao5,t9
+ao t5,9 t
+t iy5,tE
+iy t5,E t
+t uw5,to
+uw t5,o t
+t eh5,te
+eh t5,e t
+t ih5,ti
+ih t5,i t
+t uh5,t6
+uh t5,6 t
+t ah5,tu
+ah t5,u t
+t ae5,t@
+ae t5,@ t
+t er5,t5
+er t5,5 t
+t ey5,tA
+ey t5,A t
+t ay5,tI
+ay t5,I t
+t ow5,tO
+ow t5,O t
+t aw5,t8
+aw t5,8 t
+t oy5,tQ
+oy t5,Q t
+t ax5,tx
+ax t5,x t
+th aa5,tha
+aa th5,a th
+th ao5,th9
+ao th5,9 th
+th iy5,thE
+iy th5,E th
+th uw5,tho
+uw th5,o th
+th eh5,the
+eh th5,e th
+th ih5,thi
+ih th5,i th
+th uh5,th6
+uh th5,6 th
+th ah5,thu
+ah th5,u th
+th ae5,th@
+ae th5,@ th
+th er5,th5
+er th5,5 th
+th ey5,thA
+ey th5,A th
+th ay5,thI
+ay th5,I th
+th ow5,thO
+ow th5,O th
+th aw5,th8
+aw th5,8 th
+th oy5,thQ
+oy th5,Q th
+th ax5,thx
+ax th5,x th
+v aa5,va
+aa v5,a v
+v ao5,v9
+ao v5,9 v
+v iy5,vE
+iy v5,E v
+v uw5,vo
+uw v5,o v
+v eh5,ve
+eh v5,e v
+v ih5,vi
+ih v5,i v
+v uh5,v6
+uh v5,6 v
+v ah5,vu
+ah v5,u v
+v ae5,v@
+ae v5,@ v
+v er5,v5
+er v5,5 v
+v ey5,vA
+ey v5,A v
+v ay5,vI
+ay v5,I v
+v ow5,vO
+ow v5,O v
+v aw5,v8
+aw v5,8 v
+v oy5,vQ
+oy v5,Q v
+v ax5,vx
+ax v5,x v
+w aa5,wa
+aa w5,a w
+w ao5,w9
+ao w5,9 w
+w iy5,wE
+iy w5,E w
+w uw5,wo
+uw w5,o w
+w eh5,we
+eh w5,e w
+w ih5,wi
+ih w5,i w
+w uh5,w6
+uh w5,6 w
+w ah5,wu
+ah w5,u w
+w ae5,w@
+ae w5,@ w
+w er5,w5
+er w5,5 w
+w ey5,wA
+ey w5,A w
+w ay5,wI
+ay w5,I w
+w ow5,wO
+ow w5,O w
+w aw5,w8
+aw w5,8 w
+w oy5,wQ
+oy w5,Q w
+w ax5,wx
+ax w5,x w
+y aa5,ya
+aa y5,a y
+y ao5,y9
+ao y5,9 y
+y iy5,yE
+iy y5,E y
+y uw5,yo
+uw y5,o y
+y eh5,ye
+eh y5,e y
+y ih5,yi
+ih y5,i y
+y uh5,y6
+uh y5,6 y
+y ah5,yu
+ah y5,u y
+y ae5,y@
+ae y5,@ y
+y er5,y5
+er y5,5 y
+y ey5,yA
+ey y5,A y
+y ay5,yI
+ay y5,I y
+y ow5,yO
+ow y5,O y
+y aw5,y8
+aw y5,8 y
+y oy5,yQ
+oy y5,Q y
+y ax5,yx
+ax y5,x y
+z aa5,za
+aa z5,a z
+z ao5,z9
+ao z5,9 z
+z iy5,zE
+iy z5,E z
+z uw5,zo
+uw z5,o z
+z eh5,ze
+eh z5,e z
+z ih5,zi
+ih z5,i z
+z uh5,z6
+uh z5,6 z
+z ah5,zu
+ah z5,u z
+z ae5,z@
+ae z5,@ z
+z er5,z5
+er z5,5 z
+z ey5,zA
+ey z5,A z
+z ay5,zI
+ay z5,I z
+z ow5,zO
+ow z5,O z
+z aw5,z8
+aw z5,8 z
+z oy5,zQ
+oy z5,Q z
+z ax5,zx
+ax z5,x z
+zh aa5,zha
+aa zh5,a zh
+zh ao5,zh9
+ao zh5,9 zh
+zh iy5,zhE
+iy zh5,E zh
+zh uw5,zho
+uw zh5,o zh
+zh eh5,zhe
+eh zh5,e zh
+zh ih5,zhi
+ih zh5,i zh
+zh uh5,zh6
+uh zh5,6 zh
+zh ah5,zhu
+ah zh5,u zh
+zh ae5,zh@
+ae zh5,@ zh
+zh er5,zh5
+er zh5,5 zh
+zh ey5,zhA
+ey zh5,A zh
+zh ay5,zhI
+ay zh5,I zh
+zh ow5,zhO
+ow zh5,O zh
+zh aw5,zh8
+aw zh5,8 zh
+zh oy5,zhQ
+oy zh5,Q zh
+zh ax5,zhx
+ax zh5,x zh
+dx aa5,dda
+aa dx5,a dd
+dx ao5,dd9
+ao dx5,9 dd
+dx iy5,ddE
+iy dx5,E dd
+dx uw5,ddo
+uw dx5,o dd
+dx eh5,dde
+eh dx5,e dd
+dx ih5,ddi
+ih dx5,i dd
+dx uh5,dd6
+uh dx5,6 dd
+dx ah5,ddu
+ah dx5,u dd
+dx ae5,dd@
+ae dx5,@ dd
+dx er5,dd5
+er dx5,5 dd
+dx ey5,ddA
+ey dx5,A dd
+dx ay5,ddI
+ay dx5,I dd
+dx ow5,ddO
+ow dx5,O dd
+dx aw5,dd8
+aw dx5,8 dd
+dx oy5,ddQ
+oy dx5,Q dd
+dx ax5,ddx
+ax dx5,x dd
+ay er5,I5
+er iy5,5E
+iy ah5,iu
+ah iy5,uE
+ih iy5,iE
+iy ay5,EI
+ay ih5,Ii
+ih uw5,io
+ow ih5,Oi
+ih uw5,io
+uw ah5,ou
+ah ow5,uO
+iy ih5,Ei
+ih ow5,iO
+ow ay5,Oa
+uw ih5,oi
+ih uw5,io
+uw ay5,oI
+ay ey5,IA
+ey ih5,Ai
+ih er5,i5
+er aw5,5a
+aw er5,85
+iy ey5,EA
+ey ay5,AI
+ay ow5,IO
+ow ah5,Ou
+ao aw5,98
+aw ay5,9I
+ay ay5,II
+ay ae5,I@
+eh er5,e5
+er ah5,5u
+ah uw5,uo
+uw aa5,oa
+er ay5,5I
+ay ah5,Iu
+ah eh5,ue
+eh aw5,e9
+b b5,b b
+ch b5,chb
+d b5,d b
+dh b5,dhb
+f b5,f b
+g b5,g b
+hh b5,h b
+jh b5,j b
+k b5,k b
+l b5,lb
+m b5,mb
+n b5,nb
+ng b5,ng b
+p b5,p b
+r b5,rb
+s b5,s b
+sh b5,sh b
+t b5,t b
+th b5,th b
+v b5,v b
+z b5,z b
+zh b5,zh b
+b ch5,b ch
+ch ch5,ch ch
+d ch5,d ch
+dh ch5,dh ch
+f ch5,f ch
+g ch5,g ch
+hh ch5,h ch
+jh ch5,j ch
+k ch5,k ch
+l ch5,lch
+m ch5,mch
+n ch5,nch
+ng ch5,ng ch
+p ch5,p ch
+r ch5,rch
+s ch5,sch
+sh ch5,sh ch
+t ch5,tch
+th ch5,th ch
+v ch5,v ch
+z ch5,z ch
+zh ch5,zh ch
+b d5,bd
+ch d5,chd
+d d5,d d
+dh d5,dhd
+f d5,fd
+g d5,gd
+hh d5,h d
+jh d5,jd
+k d5,kd
+l d5,ld
+m d5,md
+n d5,nd
+ng d5,ng d
+p d5,pd
+r d5,rd
+s d5,sd
+sh d5,shd
+t d5,td
+th d5,thd
+v d5,vd
+z d5,zd
+zh d5,zhd
+b dh5,bdh
+ch dh5,ch dh
+d dh5,ddh
+dh dh5,dh dh
+f dh5,fdh
+g dh5,gdh
+hh dh5,h dh
+jh dh5,j dh
+k dh5,kdh
+l dh5,ldh
+m dh5,mdh
+n dh5,ndh
+ng dh5,ng dh
+p dh5,p dh
+r dh5,rdh
+s dh5,sdh
+sh dh5,sh dh
+t dh5,tdh
+th dh5,th dh
+v dh5,v dh
+z dh5,zdh
+zh dh5,zh dh
+b f5,b f
+ch f5,ch f
+d f5,d f
+dh f5,dh f
+f f5,f f
+g f5,g f
+hh f5,h f
+jh f5,j f
+k f5,k f
+l f5,lf
+m f5,mf
+n f5,nf
+ng f5,ng f
+p f5,p f
+r f5,rf
+s f5,sf
+sh f5,sh f
+t f5,t f
+th f5,th f
+v f5,v f
+z f5,z f
+zh f5,zh f
+b g5,b g
+ch g5,ch g
+d g5,d g
+dh g5,dh g
+f g5,f g
+g g5,g g
+hh g5,h g
+jh g5,j g
+k g5,k g
+l g5,lg
+m g5,mg
+n g5,ng
+ng g5,ng g
+p g5,p g
+r g5,rg
+s g5,s g
+sh g5,sh g
+t g5,t g
+th g5,th g
+v g5,v g
+z g5,z g
+zh g5,zh g
+b hh5,b h
+ch hh5,ch h
+d hh5,d h
+dh hh5,dh h
+f hh5,f h
+g hh5,g h
+hh hh5,h h
+jh hh5,j h
+k hh5,k h
+l hh5,l h
+m hh5,m h
+n hh5,n h
+ng hh5,ng h
+p hh5,p h
+r hh5,r h
+s hh5,s h
+sh hh5,sh h
+t hh5,t h
+th hh5,th h
+v hh5,v h
+z hh5,z h
+zh hh5,zh h
+b jh5,b j
+ch jh5,chj
+d jh5,dj
+dh jh5,dhj
+f jh5,f j
+g jh5,gj
+hh jh5,h j
+jh jh5,j j
+k jh5,k j
+l jh5,lj
+m jh5,mj
+n jh5,nj
+ng jh5,ng j
+p jh5,p j
+r jh5,rj
+s jh5,s j
+sh jh5,sh j
+t jh5,t j
+th jh5,th j
+v jh5,v j
+z jh5,z j
+zh jh5,zh j
+b k5,bk
+ch k5,chk
+d k5,d k
+dh k5,dhk
+f k5,fk
+g k5,g k
+hh k5,h k
+jh k5,j k
+k k5,k k
+l k5,lk
+m k5,mk
+n k5,nk
+ng k5,ng k
+p k5,p k
+r k5,rk
+s k5,sk
+sh k5,shk
+t k5,t k
+th k5,thk
+v k5,v k
+z k5,z k
+zh k5,zh k
+b l5,bl
+ch l5,chl
+d l5,dl
+dh l5,dhl
+f l5,fl
+g l5,gl
+hh l5,h l
+jh l5,jl
+k l5,kl
+l l5,l l
+m l5,ml
+n l5,nl
+ng l5,ng l
+p l5,pl
+r l5,rl
+s l5,sl
+sh l5,shl
+t l5,tl
+th l5,thl
+v l5,vl
+z l5,zl
+zh l5,zhl
+b m5,bm
+ch m5,chm
+d m5,d m
+dh m5,dh m
+f m5,f m
+g m5,g m
+hh m5,h m
+jh m5,j m
+k m5,k m
+l m5,lm
+m m5,m m
+n m5,nm
+ng m5,ng m
+p m5,p m
+r m5,rm
+s m5,sm
+sh m5,sh m
+t m5,t m
+th m5,th m
+v m5,v m
+z m5,zm
+zh m5,zh m
+b n5,bn
+ch n5,ch n
+d n5,d n
+dh n5,dh n
+f n5,f n
+g n5,g n
+hh n5,h n
+jh n5,j n
+k n5,k n
+l n5,ln
+m n5,m n
+n n5,n n
+ng n5,ng n
+p n5,p n
+r n5,rn
+s n5,sn
+sh n5,sh n
+t n5,t n
+th n5,thn
+v n5,v n
+z n5,z n
+zh n5,zh n
+b ng5,b ng
+ch ng5,ch ng
+d ng5,d ng
+dh ng5,dh ng
+f ng5,f ng
+g ng5,g ng
+hh ng5,h ng
+jh ng5,j ng
+k ng5,k ng
+l ng5,l ng
+m ng5,m ng
+n ng5,n ng
+ng ng5,ng ng
+p ng5,p ng
+r ng5,rng
+s ng5,s ng
+sh ng5,sh ng
+t ng5,t ng
+th ng5,th ng
+v ng5,v ng
+z ng5,z ng
+zh ng5,zh ng
+b p5,b p
+ch p5,ch p
+d p5,d p
+dh p5,dh p
+f p5,f p
+g p5,g p
+hh p5,h p
+jh p5,j p
+k p5,k p
+l p5,lp
+m p5,mp
+n p5,np
+ng p5,ng p
+p p5,p p
+r p5,rp
+s p5,s p
+sh p5,sh p
+t p5,t p
+th p5,th p
+v p5,v p
+z p5,z p
+zh p5,zh p
+b r5,br
+ch r5,chr
+d r5,dr
+dh r5,dhr
+f r5,fr
+g r5,gr
+hh r5,h r
+jh r5,j r
+k r5,kr
+l r5,lr
+m r5,mr
+n r5,nr
+ng r5,ng r
+p r5,pr
+r r5,r r
+s r5,sr
+sh r5,shr
+t r5,tr
+th r5,thr
+v r5,vr
+z r5,zr
+zh r5,zhr
+b s5,bs
+ch s5,chs
+d s5,ds
+dh s5,dhs
+f s5,fs
+g s5,gs
+hh s5,h s
+jh s5,js
+k s5,ks
+l s5,ls
+m s5,ms
+n s5,ns
+ng s5,ngs
+p s5,ps
+r s5,rs
+s s5,s s
+sh s5,sh s
+t s5,ts
+th s5,ths
+v s5,vs
+z s5,zs
+zh s5,zhs
+b sh5,bsh
+ch sh5,ch sh
+d sh5,d sh
+dh sh5,dh sh
+f sh5,fsh
+g sh5,g sh
+hh sh5,h sh
+jh sh5,j sh
+k sh5,ksh
+l sh5,lsh
+m sh5,msh
+n sh5,nsh
+ng sh5,ng sh
+p sh5,psh
+r sh5,rsh
+s sh5,s sh
+sh sh5,sh sh
+t sh5,tsh
+th sh5,th sh
+v sh5,v sh
+z sh5,z sh
+zh sh5,zh sh
+b t5,bt
+ch t5,cht
+d t5,dt
+dh t5,dht
+f t5,ft
+g t5,gt
+hh t5,h t
+jh t5,jt
+k t5,kt
+l t5,lt
+m t5,mt
+n t5,nt
+ng t5,ng t
+p t5,pt
+r t5,rt
+s t5,st
+sh t5,sht
+t t5,t t
+th t5,tht
+v t5,vt
+z t5,zt
+zh t5,zht
+b th5,bth
+ch th5,ch th
+d th5,dth
+dh th5,dh th
+f th5,fth
+g th5,gth
+hh th5,h th
+jh th5,j th
+k th5,kth
+l th5,lth
+m th5,mth
+n th5,nth
+ng th5,ng th
+p th5,pth
+r th5,rth
+s th5,sth
+sh th5,sh th
+t th5,tth
+th th5,th th
+v th5,vth
+z th5,zth
+zh th5,zhth
+b v5,bv
+ch v5,chv
+d v5,dv
+dh v5,dhv
+f v5,f v
+g v5,g v
+hh v5,h v
+jh v5,j v
+k v5,k v
+l v5,lv
+m v5,mv
+n v5,nv
+ng v5,ng v
+p v5,p v
+r v5,rv
+s v5,s v
+sh v5,sh v
+t v5,t v
+th v5,th v
+v v5,v v
+z v5,z v
+zh v5,zh v
+b w5,bw
+ch w5,chw
+d w5,dw
+dh w5,dhw
+f w5,fw
+g w5,gw
+hh w5,h w
+jh w5,j w
+k w5,kw
+l w5,lw
+m w5,mw
+n w5,nw
+ng w5,ng w
+p w5,pw
+r w5,rw
+s w5,sw
+sh w5,shw
+t w5,tw
+th w5,thw
+v w5,v w
+z w5,z w
+zh w5,zh w
+b y5,by
+ch y5,chy
+d y5,dy
+dh y5,dhy
+f y5,fy
+g y5,gy
+hh y5,hy
+jh y5,jy
+k y5,ky
+l y5,ly
+m y5,my
+n y5,ny
+ng y5,ng y
+p y5,py
+r y5,ry
+s y5,sy
+sh y5,shy
+t y5,ty
+th y5,thy
+v y5,vy
+z y5,zy
+zh y5,zhy
+b z5,bz
+ch z5,chz
+d z5,dz
+dh z5,dhz
+f z5,fz
+g z5,gz
+hh z5,h z
+jh z5,j z
+k z5,kz
+l z5,lz
+m z5,mz
+n z5,nz
+ng z5,ngz
+p z5,pz
+r z5,rz
+s z5,sz
+sh z5,shz
+t z5,tz
+th z5,thz
+v z5,vz
+z z5,z z
+zh z5,zh z
+b zh5,bzh
+ch zh5,ch zh
+d zh5,dzh
+dh zh5,dh zh
+f zh5,f zh
+g zh5,g zh
+hh zh5,h zh
+jh zh5,j zh
+k zh5,k zh
+l zh5,l zh
+m zh5,m zh
+n zh5,n zh
+ng zh5,ng zh
+p zh5,p zh
+r zh5,r zh
+s zh5,s zh
+sh zh5,sh zh
+t zh5,t zh
+th zh5,th zh
+v zh5,v zh
+z zh5,z zh
+zh zh5,zh zh
+- b5,-b
+b -5,b-
+- ch5,-ch
+ch -5,ch-
+- d5,-d
+d -5,d-
+- dh5,-dh
+dh -5,dh-
+- f5,-f
+f -5,f-
+- g5,-g
+g -5,g-
+- hh5,-h
+hh -5,h-
+- jh5,-j
+jh -5,j-
+- k5,-k
+k -5,k-
+- l5,-l
+l -5,l-
+- m5,-m
+m -5,m-
+- n5,-n
+n -5,n-
+- ng5,-nng
+ng -5,nng-
+- p5,-p
+p -5,p-
+- dx5,-dd
+dx -5,dd-
+- r5,-r
+r -5,r-
+- s5,-s
+s -5,s-
+- sh5,-sh
+sh -5,sh-
+- t5,-t
+t -5,t-
+- th5,-th
+th -5,th-
+- v5,-v
+v -5,v-
+- w5,-w
+w -5,w-
+- y5,-y
+y -5,y-
+- z5,-z
+z -5,z-
+- zh5,-zh
+zh -5,zh-
+s er,s3
+er s,3 s

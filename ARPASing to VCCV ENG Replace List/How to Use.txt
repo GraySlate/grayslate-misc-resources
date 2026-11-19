@@ -1,0 +1,32 @@
+How to Use
+
+1)  Copy and paste the text file into IroIro2's "Replace" folder (path should look like UTAU -> plugins -> iroiro2 -> Replace
+2)  Reload plugins in UTAU (Tools -> Plug-Ins -> Reload)
+3)  Open an ARPASing UST
+4)  Load in a VCCV English UTAU from the Project Configuration menu
+5)  Select all notes or the range of notes you want to convert
+6)  Open IroIro2 from the Plug-Ins list
+7)  Select Replace (By List)
+8)  Under the Replacement dropdown, change tikan.txt to ARPASing to VCCV ENG.txt
+9)  Select OK twice.
+
+Conversion from ARPASing to VCCV ENG is not going to be 100% correct.  This list is meant to be a starting point for conversion, as well as speed up the process of converting phonemes as opposed to doing it by hand.
+
+Editing the text file yourself is allowed, but please do not redistribute without asking permission.
+
+- GraySlate
+
+:::::------------------------------------:::::
+
+GraySlate's Social Media
+
+grayslate.deviantart.com
+https://www.youtube.com/c/GraySlate
+https://assbackwardsp.wixsite.com/grayslatescarrd
+https://grayslate.newgrounds.com/
+https://www.instagram.com/zephyrartistry/?hl=en
+https://www.reddit.com/user/MamaZephy
+https://ko-fi.com/grayslate
+https://soundcloud.com/assbackwardsp
+https://www.pixiv.net/member.php?id=7895947
+https://assbackwardsp.wixsite.com/utaubackwards/
